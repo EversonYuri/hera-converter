@@ -1,100 +1,18 @@
-`UPDATE produotos SET descricaopdv = replace( descricaopdv, '�', '' ), nome = replace( nome, '�', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '�', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '職', '' ), nome = replace( nome, '職', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '職', '' ); 
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾇ', '' ), nome = replace( nome, 'ﾇ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾇ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾕ', '' ), nome = replace( nome, 'ﾕ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾕ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '縊', '' ), nome = replace( nome, '縊', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '縊', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '縊', '' ), nome = replace( nome, '縊', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '縊', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾇ', '' ), nome = replace( nome, 'ﾇ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾇ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾁ', '' ), nome = replace( nome, 'ﾁ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾁ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾃ', '' ), nome = replace( nome, 'ﾃ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾃ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾊ', '' ), nome = replace( nome, 'ﾊ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾊ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾄ', '' ), nome = replace( nome, 'ﾄ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾄ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾍ', '' ), nome = replace( nome, 'ﾍ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾍ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ｰ', '' ), nome = replace( nome, 'ｰ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ｰ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '兤', '' ), nome = replace( nome, '兤', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '兤', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾓ', '' ), nome = replace( nome, 'ﾓ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾓ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '鈬', '' ), nome = replace( nome, '鈬', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '鈬', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '・', '' ), nome = replace( nome, '・', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '・', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾔ', '' ), nome = replace( nome, 'ﾔ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾔ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '輟', '' ), nome = replace( nome, '輟', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '輟', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ｴ', '' ), nome = replace( nome, 'ｴ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ｴ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾉ', '' ), nome = replace( nome, 'ﾉ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾉ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ｺ', '' ), nome = replace( nome, 'ｺ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ｺ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '匤', '' ), nome = replace( nome, '匤', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '匤', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '軋', '' ), nome = replace( nome, '軋', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '軋', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾂ', '' ), nome = replace( nome, 'ﾂ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾂ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '黌', '' ), nome = replace( nome, '黌', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '黌', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾌ', '' ), nome = replace( nome, 'ﾌ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾌ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾚ', '' ), nome = replace( nome, 'ﾚ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾚ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '侒', '' ), nome = replace( nome, '侒', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '侒', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '﨎', '' ), nome = replace( nome, '﨎', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '﨎', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '疝', '' ), nome = replace( nome, '疝', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '疝', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '侔', '' ), nome = replace( nome, '侔', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '侔', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '‡', '' ), nome = replace( nome, '‡', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '‡', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ƒ', '' ), nome = replace( nome, 'Ƒ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ƒ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '•', '' ), nome = replace( nome, '•', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '•', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '€', '' ), nome = replace( nome, '€', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '€', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '¡', '' ), nome = replace( nome, '¡', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '¡', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '䰃', '' ), nome = replace( nome, '䰃', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '䰃', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '偐', '' ), nome = replace( nome, '偐', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '偐', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '!', '' ), nome = replace( nome, '!', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '!', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '#', '' ), nome = replace( nome, '#', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '#', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ъ', '' ), nome = replace( nome, 'Ъ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ъ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Г', '' ), nome = replace( nome, 'Г', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Г', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'З', '' ), nome = replace( nome, 'З', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'З', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Й', '' ), nome = replace( nome, 'Й', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Й', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Б', '' ), nome = replace( nome, 'Б', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Б', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'У', '' ), nome = replace( nome, 'У', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'У', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Н', '' ), nome = replace( nome, 'Н', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Н', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ф', '' ), nome = replace( nome, 'Ф', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ф', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'К', '' ), nome = replace( nome, 'К', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'К', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Х', '' ), nome = replace( nome, 'Х', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Х', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'В', '' ), nome = replace( nome, 'В', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'В', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ƒ', '' ), nome = replace( nome, 'ƒ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ƒ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ґ', '' ), nome = replace( nome, 'Ґ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ґ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '・', '' ), nome = replace( nome, '・', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '・', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '', '' ), nome = replace( nome, '', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '當', '' ), nome = replace( nome, '當', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '當', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '疵', '' ), nome = replace( nome, '疵', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '疵', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '騁', '' ), nome = replace( nome, '騁', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '騁', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '疊', '' ), nome = replace( nome, '疊', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '疊', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '匇', '' ), nome = replace( nome, '匇', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '匇', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '疽', '' ), nome = replace( nome, '疽', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '疽', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾑ', '' ), nome = replace( nome, 'ﾑ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾑ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Т', '' ), nome = replace( nome, 'Т', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Т', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'И', '' ), nome = replace( nome, 'И', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'И', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ј', '' ), nome = replace( nome, 'Ј', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ј', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ѓ', '' ), nome = replace( nome, 'Ѓ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ѓ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '�', '' ), nome = replace( nome, '�', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '�', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Є', '' ), nome = replace( nome, 'Є', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Є', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '░', '' ), nome = replace( nome, '░', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '░', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '┤', '' ), nome = replace( nome, '┤', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '┤', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '', '' ), nome = replace( nome, '', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '', '' ), nome = replace( nome, '', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '‰', '' ), nome = replace( nome, '‰', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '‰', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Щ', '' ), nome = replace( nome, 'Щ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Щ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'А', '' ), nome = replace( nome, 'А', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'А', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ĺ', '' ), nome = replace( nome, 'Ĺ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ĺ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ȋ', '' ), nome = replace( nome, 'Ȋ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ȋ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ô', '' ), nome = replace( nome, 'Ô', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ô', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '├', '' ), nome = replace( nome, '├', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '├', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ë', '' ), nome = replace( nome, 'Ë', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ë', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ü', '' ), nome = replace( nome, 'Ü', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ü', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾈ', '' ), nome = replace( nome, 'ﾈ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾈ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ﾒ', '' ), nome = replace( nome, 'ﾒ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ﾒ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Б', '' ), nome = replace( nome, 'Б', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Б', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ќ', '' ), nome = replace( nome, 'Ќ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ќ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Љ', '' ), nome = replace( nome, 'Љ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Љ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ђ', '' ), nome = replace( nome, 'Ђ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ђ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Љ', '' ), nome = replace( nome, 'Љ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Љ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Ò', '' ), nome = replace( nome, 'Ò', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Ò', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'Μ', '' ), nome = replace( nome, 'Μ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'Μ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'İ', '' ), nome = replace( nome, 'İ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'İ', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, '±', '' ), nome = replace( nome, '±', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, '±', '' );
-UPDATE produotos SET descricaopdv = replace( descricaopdv, 'ｲ', '' ), nome = replace( nome, 'ｲ', '' ), descricaoEtiquetas = replace( descricaoEtiquetas, 'ｲ', '' );
-UPDATE produotos SET gtin = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(gtin,'A',''),'B',''),'C',''),'D', ''),'E', ''),'F', ''),'G', ''),'H', ''),'I', ''),'J', ''),'K', ''),'L', ''),'M', ''),'N', ''),'O', ''),'P', ''),'Q', ''),'R', ''),'S', ''),'T', ''),'U', ''),'V', ''),'W', ''),'X', ''),'Y', ''),'Z', '');
-update produotos SET gtin = REPLACE(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(replace(gtin,'a',''),'b',''),'c',''),'d', ''),'e', ''),'f', ''),'g', ''),'h', ''),'i', ''),'j', ''),'k', ''),'l', ''),'m', ''),'n', ''),'o', ''),'p', ''),'q', ''),'r', ''),'s', ''),'t', ''),'u', ''),'v', ''),'w', ''),'x', ''),'y', ''),'z', '');
-UPDATE produotos SET gtin = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(gtin,'Á',''),'É',''),'Í',''),'Ó', ''),'Ú', ''),'á', ''),'é', ''),'í', ''),'ó', ''),'ú', ''),'Â', ''),'Ê', ''),'Ô', ''),'â', ''),'ê', ''),'ô', ''),'À', ''),'à', ''),'Ü', ''),'ü', ''),'Ç', ''),'ç', ''),'Ñ', ''),'ñ', ''),'Ã', ''),'Õ', '');
-UPDATE produotos SET gtin = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(gtin,'õ',''),'ä',''),'ë',''),'ï', ''),'ö', ''),'ü', ''),'ÿ', ''),'Ä', ''),'Ë', ''),'Ï', ''),'Ö', ''),'Ü', ''),'Ÿ', ''),'å', ''),'Å', ''),'æ', ''),'Æ', ''),'œ', ''),'Œ', ''),'.', ''),'|', ''),' ', ''),',', ''),'!', ''),'@', ''),'/', '');
-UPDATE produotos SET gtin = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(gtin,'ã',''),'-',''),'-',''),'%', ''),'$', ''),'¨', ''),'&', ''),'*', ''),'(', ''),')', ''),'+', ''),'=', ''),'§', ''),':', ''),';', ''),'?', ''),'¿', ''),'�', ''),'^', ''),'~', ''),'{', ''),'}', ''),'´', ''),'\`', ''),'_', ''),'º', '');
-UPDATE produotos SET gtin = REPLACE(REPLACE(REPLACE(gtin,'[',''),']',''),'¬','');` 
+export function treatDescricao(str: string): string {
+    const chars = [
+        '�','職','ﾇ','ﾕ','縊','ﾁ','ﾃ','ﾊ','ﾄ','ﾍ','ｰ','兤','ﾓ','鈬','・','ﾔ','輟','ｴ','ﾉ','ｺ','匤','軋','ﾂ','黌','ﾌ','ﾚ','侒','﨎','疝','侔','‡','Ƒ','•','€','¡','䰃','偐','!','#','Ъ','Г','З','Й','Б','У','Н','Ф','К','Х','В','ƒ','Ґ','・','','當','疵','騁','疊','匇','疽','ﾑ','Т','И','Ј','Ѓ','�','Є','░','┤','','','‰','Щ','А','Ĺ','Ȋ','Ô','├','Ë','Ü','ﾈ','ﾒ','Б','Ќ','Љ','Ђ','Љ','Ò','Μ','İ','±','ｲ'
+    ];
+    let result = str;
+    chars.forEach(char => {
+        result = result.split(char).join('');
+    });
+    return result;
+}
+
+export function treatGtin(str: string): string {
+    return str
+        .replace(/[A-Z]/g, '')
+        .replace(/[a-z]/g, '')
+        .replace(/[ÁÉÍÓÚáéíóúÂÊÔâêôÀàÜüÇçÑñÃÕõäëïöüÿÄËÏÖÜŸåÅæÆœŒ]/g, '')
+        .replace(/[.\| ,!@/\-\$%¨&*()+=§:;?¿�^~{}´`_º\[\]¬]/g, '');
+}

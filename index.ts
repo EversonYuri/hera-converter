@@ -2,6 +2,7 @@ import { parseCSVtoArray } from './src/readcsv';
 import { defineMedida, isValidGTIN } from './src/funcoes';
 import { conn } from './src/db/conn';
 import { Logger } from './src/Logger';
+import { treatDescricao, treatDescricaoPDV, treatGtin } from './src/treating/strangeChars';
 
 interface Produto {
 	gtin: string;
@@ -202,6 +203,10 @@ async function insertProduto(produto: any, i: number = 0) {
 		mergedProduto.produtoBalanca = 0;
 	}
 
+	
+	mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
+	mergedProduto.nome = treatDescricao(mergedProduto.nome || "");
+
 	mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra) : 0.0;
 	mergedProduto.valorVenda = produto.valorVenda ? parseFloat(mergedProduto.valorVenda) : 0.0;
 	mergedProduto.valorVenda = mergedProduto.valorVenda < mergedProduto.valorCusto ? mergedProduto.valorCusto : mergedProduto.valorVenda;
@@ -236,3 +241,6 @@ async function insertProduto(produto: any, i: number = 0) {
 verifyGtinDuplicity();
 verifyNameDuplicity()
 if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i))
+
+console.log(
+);

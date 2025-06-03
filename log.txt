@@ -232,11 +232,11 @@ Produto: BISCOITO TRAKINAS MEIO CHOCOLATE AO LEITE gtin: 7622210592668 inserido 
 Produto: BISCOITO TRIUNFO SALPET 100G ORIGINAL gtin: 7896058256406 inserido com o id: 232
 Produto: BISCOITO VITARELA MOUSSE MORANGO gtin: 7896085087196 inserido com o id: 233
 Produto: BISCOITO VITORIA DA CONQUISTA PALITO BRANCO gtin: 550 inserido com o id: 234
-Produto: BISCOITO WAFER CH C AVEL� BAUD gtin: 7891962036991 inserido com o id: 235
+Produto: BISCOITO WAFER CH C AVEL BAUD gtin: 7891962036991 inserido com o id: 235
 Produto: BISCOITO WAFER CHO TORTUGUITA 85G gtin: 7896058258103 inserido com o id: 236
 Produto: BISCOITO WAFER MOR BAUDUCCO 140G gtin: 7891962037004 inserido com o id: 237
 Produto: BISCOITO WAFER TODDY 94G CHOC gtin: 7896071025386 inserido com o id: 238
-Produto: BISCOITO �GUA E SAL TRIUNFO 164G gtin: 7896058258721 inserido com o id: 239
+Produto: BISCOITO GUA E SAL TRIUNFO 164G gtin: 7896058258721 inserido com o id: 239
 Produto: BISCOITOS TUCS CHURRASCO R gtin: 7896061302251 inserido com o id: 240
 Produto: BISCOITOS TUCS CRACKES ORIG gtin: 7896061300677 inserido com o id: 241
 Produto: BISCOTO VITARELLA MAIZENA 350G gtin: 7896213006396 inserido com o id: 242
@@ -324,7 +324,7 @@ Produto: CALDO GALINHA MAGGI PO 35G gtin: 7891000285848 inserido com o id: 323
 Produto: CALDO KNORR GALINHA 57G 6 CUBOS gtin: 7894000000275 inserido com o id: 324
 Produto: CALDO MAGGI CARNE 57G gtin: 7891000250150 inserido com o id: 325
 Produto: CALDO PO LEGUM SAZON 32,5G gtin: 7891132110247 inserido com o id: 326
-Produto: CALDO P� GALINHA SAZ�N CX32,5G gtin: 7891132110230 inserido com o id: 327
+Produto: CALDO P GALINHA SAZN CX32,5G gtin: 7891132110230 inserido com o id: 327
 Produto: CAMARAO S/ CABECA MEDIO gtin: 47 inserido com o id: 328
 Produto: CAMOMILA 20G gtin: 7894904082706 inserido com o id: 329
 Produto: CAMP MORANGO gtin: 7898027656781 inserido com o id: 330
@@ -442,7 +442,7 @@ Produto: DETERGENTE LIQUIDO YPE CAPIM LIMAO 500ML DUPLICADO 99 gtin: 20001551902
 Produto: DETERGENTE LIQUIDO YPE CAPIM LIMAO 500ML gtin: 7896098902042 inserido com o id: 442
 Produto: DETERGENTE LIQUIDO YPE MACA DUPLICADO 99 gtin: 7898956779636 inserido com o id: 443
 Produto: DETERGENTE LIQUIDO YPE MACA gtin: 7896098900215 inserido com o id: 444
-Produto: DETERGENTE LI�QUIDO DE COCO YPE 500ML gtin: 7896098900239 inserido com o id: 445
+Produto: DETERGENTE LIQUIDO DE COCO YPE 500ML gtin: 7896098900239 inserido com o id: 445
 Produto: DETERGENTE MINUANO 500ML COCO gtin: 7897664130302 inserido com o id: 446
 Produto: DETERGENTE MINUANO 500ML MARINE gtin: 7897664130319 inserido com o id: 447
 Produto: DIVERSOS gtin: 98 inserido com o id: 448
@@ -513,7 +513,7 @@ Produto: ESCOVA DENTAL NAVY FRESH INFANTIL gtin: 7908635100627 inserido com o id
 Produto: ESCOVA DENTAL VAVY FRESH gtin: 7908635100634 inserido com o id: 513
 Produto: ESCOVA MACIA COLGATE ESSENCIAL gtin: 7891024024386 inserido com o id: 514
 Produto: ESCOVA PLASTICA COM ALCA gtin: 7898650900572 inserido com o id: 515
-Produto: ESPONJA A�O ASSOLAN 45G 8UN gtin: 7896090100101 inserido com o id: 516
+Produto: ESPONJA AO ASSOLAN 45G 8UN gtin: 7896090100101 inserido com o id: 516
 Produto: ESPONJA ESFREBOM MULTIUSO DUPLA FACE gtin: 7896001004504 inserido com o id: 517
 Produto: ESTEIRA TABOA gtin: 92 inserido com o id: 518
 Produto: ESTILINGUE gtin: 10007358 inserido com o id: 519
@@ -596,7 +596,7 @@ Produto: FUMO E CORDA PEDACO gtin: 7890483574449 inserido com o id: 595
 Produto: FUMO SABIA 45G gtin: 7890483574647 inserido com o id: 596
 Produto: GAMELA CRUA MEDIA gtin: 7891164004590 inserido com o id: 597
 Produto: GEL CARTILAGEM DE TUBARAO BIO INSTINTO - 200G gtin: 7891164130749 inserido com o id: 598
-Produto: GEL MASSAGEADOR ARNICA E COPAA�BA BIO INSTINTO - 200G gtin: 7891349103300 inserido com o id: 599
+Produto: GEL MASSAGEADOR ARNICA E COPAABA BIO INSTINTO - 200G gtin: 7891349103300 inserido com o id: 599
 Produto: GELATINA APTI MARACUJA gtin: 7896327516187 inserido com o id: 600
 Produto: GELATINA APTI MORANGO gtin: 7896327516118 inserido com o id: 601
 Produto: GELATINA DR.OETKER ABACAXI 20G gtin: 7891048050606 inserido com o id: 602
@@ -1335,26 +1335,26 @@ Produto: XAROPE DA VOVO gtin: 7897795558631 inserido com o id: 1334
 Produto: XAROPE DA VOVO ISABEL gtin: 7897795558630 inserido com o id: 1335
 Produto: XAROPE DA VOVO ISABEL POTE PLASTICO DUPLICADO 99 gtin: 7898042159472 inserido com o id: 1336
 Produto: XAROPE DA VOVO ISABEL POTE PLASTICO gtin: 163 inserido com o id: 1337
-Produto: XAROPE SAUDE DA MULHER gtin: MERLUZASALGADANAC inserido com o id: 1338
+Produto: XAROPE SAUDE DA MULHER gtin: 1337 inserido com o id: 1338
 Produto: YAKULT HILINE gtin: 7891156011018 inserido com o id: 1339
 Produto: YAKULT TAFFMAN E gtin: 7891156010011 inserido com o id: 1340
 Produto: "ZERO-CAL ADOCANTE LIQ100ML" gtin: 7896094910904 inserido com o id: 1341
-OSA P2000 MADEIRA gtin: 7898912692122 inserido com o id: 85283
-Produto: VASSOURA NILON gtin: 7898927066208 inserido com o id: 85284
-Produto: VASSOURA P2000 GRACIOSA gtin: 7898912692139 inserido com o id: 85285
-Produto: VASSOURA PIACAVA gtin: 129 inserido com o id: 85286
-Produto: VASSOURA PLURI PLUS gtin: 7898650900336 inserido com o id: 85287
-Produto: VASSOURA VARRE CANTO gtin: 7898912692368 inserido com o id: 85288
-Produto: VEJA GOLD CAMPESTRE 500ML gtin: 7891035209000 inserido com o id: 85289
-Produto: VEJA GOLD ORIGINAL 500ML DUPLICADO 99 gtin: 7891035800214 inserido com o id: 85290
-Produto: VEJA GOLD ORIGINAL 500ML gtin: 7891035210006 inserido com o id: 85291
-Produto: VELA 7 DIAS gtin: 126 inserido com o id: 85292
-Produto: VELA PALITO 8UN PEQUENA gtin: 125 inserido com o id: 85293
-Produto: VELA PALITO 8UND N9 gtin: 124 inserido com o id: 85294
-Produto: VINAGRE ALMAROMI 400ML MACA gtin: 7898908593310 inserido com o id: 85295
-Produto: VINAGRE BRANCO CASTELO gtin: 12222 inserido com o id: 85296
-Produto: VINAGRE ORGANICO ALMARONI gtin: 7898908593617 inserido com o id: 85297
-Produto: VINAGRE VITALIA COLORIDO gtin: 7896048284792 inserido com o id: 85298
+in: 7898080640826 inserido com o id: 2668
+Produto: WAFER CHOCOLATE PIRAQUE 100G gtin: 7896024760647 inserido com o id: 2669
+Produto: WAFER DADINHO CHOCOLATE gtin: 7898530842572 inserido com o id: 2670
+Produto: WAFER MORANGO PIRAQUE 100G gtin: 7896024760654 inserido com o id: 2671
+Produto: WAFER PANCO CHOCOLATE gtin: 7891203057075 inserido com o id: 2672
+Produto: WAFER PIRAQUE LIMAO gtin: 7896024760678 inserido com o id: 2673
+Produto: WAFER TODDY 94G CHOCOLATE E MORANGO gtin: 7896071025416 inserido com o id: 2674
+Produto: XAROPE DA VOVO gtin: 7897795558631 inserido com o id: 2675
+Produto: XAROPE DA VOVO ISABEL gtin: 7897795558630 inserido com o id: 2676
+Produto: XAROPE DA VOVO ISABEL POTE PLASTICO DUPLICADO 99 gtin: 7898042159472 inserido com o id: 2677
+Produto: XAROPE DA VOVO ISABEL POTE PLASTICO gtin: 163 inserido com o id: 2678
+Produto: XAROPE SAUDE DA MULHER gtin: MERLUZASALGADANAC inserido com o id: 2679
+Produto: YAKULT HILINE gtin: 7891156011018 inserido com o id: 2680
+Produto: YAKULT TAFFMAN E gtin: 7891156010011 inserido com o id: 2681
+Produto: "ZERO-CAL ADOCANTE LIQ100ML" gtin: 7896094910904 inserido com o id: 2682
+VITALIA COLORIDO gtin: 7896048284792 inserido com o id: 85298
 Produto: VINHO GENGIBRE QUENTINHO 600ML gtin: 7898191620021 inserido com o id: 85299
 Produto: VITAMINA ITALAKINHO  200ML gtin: 7898080640826 inserido com o id: 85300
 Produto: WAFER CHOCOLATE PIRAQUE 100G gtin: 7896024760647 inserido com o id: 85301
