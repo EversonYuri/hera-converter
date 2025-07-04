@@ -2,7 +2,7 @@ import { parseCSVtoArray } from './src/readcsv';
 import { defineMedida, isValidGTIN } from './src/funcoes';
 import { conn } from './src/db/conn';
 import { Logger } from './src/Logger';
-import { treatDescricao, treatDescricaoPDV, treatGtin } from './src/treating/strangeChars';
+import { treatDescricao, treatGtin } from './src/treating/strangeChars';
 
 interface Produto {
 	gtin: string;
@@ -21,7 +21,7 @@ const duplicidadeNome = new Logger('duplicidadeNome.txt');
 
 // 
 // Importa o arquivo CSV e converte para um array de objetos
-const arr = await parseCSVtoArray('C:/Code/public/produtos.csv') as Produto[];
+const arr = await parseCSVtoArray('C:/CODE/conversor/public/produtos.csv') as Produto[];
 
 // 
 // Verifica se o array não está vazio
@@ -194,6 +194,8 @@ function verifyNameDuplicity() {
 async function insertProduto(produto: any, i: number = 0) {
 	const mergedProduto = { ...defaultValues, ...produto };
 
+	mergedProduto.unidade = mergedProduto.unidade ? mergedProduto.unidade.toUpperCase().trim() : 'UN';
+
 	if (mergedProduto.unidade?.toUpperCase() === 'KG') {
 		mergedProduto.balancaCaixa = 1;
 		mergedProduto.produtoBalanca = mergedProduto.gtin.length <= 6 ? 1 : 0;
@@ -203,7 +205,7 @@ async function insertProduto(produto: any, i: number = 0) {
 		mergedProduto.produtoBalanca = 0;
 	}
 
-	
+
 	mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
 	mergedProduto.nome = treatDescricao(mergedProduto.nome || "");
 
@@ -238,9 +240,15 @@ async function insertProduto(produto: any, i: number = 0) {
 	}
 }
 
-verifyGtinDuplicity();
-verifyNameDuplicity()
-if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i))
+function treatDescricaoAfter() {
+	try {
+		conn.execute(`UPDATE produtos SET  descricaopdv = REGEXP_REPLACE(descricaopdv, '[^ -~]', ''), descricaoEtiquetas = REGEXP_REPLACE(descricaoEtiquetas, '[^ -~]', ''),  nome = REGEXP_REPLACE(nome, '[^ -~]', '');`)
+	} catch (error) {
+		console.error(`Erro ao tratar descrição:`, error);
+	}
+}
 
-console.log(
-);
+verifyGtinDuplicity();
+verifyNameDuplicity();
+if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i))
+treatDescricaoAfter();
