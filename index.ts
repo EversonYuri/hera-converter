@@ -74,3 +74,5 @@ verifyGtinDuplicity();
 verifyNameDuplicity();
 if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i))
 treatDescricaoAfter();
+
+console.log(`Total de produtos convertidos: ${arr.length}`);
