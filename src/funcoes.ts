@@ -10,7 +10,20 @@ export function isValidGTIN(gtin: string): boolean {
 }
 
 export function defineMedida(medida: string) {
-    switch (medida) {
+
+    medida = medida.toUpperCase().trim();
+    // Se algum dos cases está contido na string, ajusta para o valor do case correspondente
+    const cases = [
+        'UN', 'UND', 'KG', 'LT', 'CX', 'DZ', 'FD', 'GL', 'GR', 'BD', 'MT', 'M2', 'M3', 'MG', 'ML', 'MM', 'PC'
+    ];
+    for (const c of cases) {
+        if (medida.includes(c)) {
+            medida = c;
+            break;
+        }
+    }
+
+    switch (medida){
         case 'UN':
         case 'UND':
             return 1; // Unidade

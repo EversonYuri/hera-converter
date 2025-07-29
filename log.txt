@@ -1,674 +1,685 @@
-Produto: FEEL GOOD CH VERDE 1L gtin: 07898192031895 inserido com o id: 1
-Produto: UVA VERDINHA gtin: 00000000000001 inserido com o id: 2
-Produto: AGRIAO MC gtin: 00000000000002 inserido com o id: 3
-Produto: AGRIAO HIDROPONICO M gtin: 00000000000003 inserido com o id: 4
-Produto: ALCACHOFRA UNID gtin: 00000000000004 inserido com o id: 5
-Produto: ALECRIM UN gtin: 00000000000005 inserido com o id: 6
-Produto: ALFACE AMERICANA UNI gtin: 00000000000006 inserido com o id: 7
-Produto: ALFACE CRESPA UNID gtin: 00000000000007 inserido com o id: 8
-Produto: ALFACE HIDROPONICA U gtin: 00000000000008 inserido com o id: 9
-Produto: ALFACE LISA UNID gtin: 00000000000009 inserido com o id: 10
-Produto: ALFACE MIMOSA UNID gtin: 00000000000010 inserido com o id: 11
-Produto: ALFACE ROMANA UNID gtin: 00000000000011 inserido com o id: 12
-Produto: ALFACE ROXA UNID gtin: 00000000000012 inserido com o id: 13
-Produto: BDJ BATATA  DOCE ROXA gtin: 00000000000013 inserido com o id: 14
-Produto: ALMEIRAO UN gtin: 00000000000014 inserido com o id: 15
-Produto: ALMEIRAO HIDROPONICO gtin: 00000000000015 inserido com o id: 16
-Produto: ALMEIRAO PAO MC gtin: 00000000000016 inserido com o id: 17
-Produto: COCO SECO FATIADO KG gtin: 00000000000017 inserido com o id: 18
-Produto: TORRADA MANTEIGA gtin: 00000000000018 inserido com o id: 19
-Produto: FARINHA DE ROSCA gtin: 00000000000019 inserido com o id: 20
-Produto: CHUCHU C/ BETERRABA KG gtin: 00000000000020 inserido com o id: 21
-Produto: BROCOLIS COMUM MC gtin: 00000000000021 inserido com o id: 22
-Produto: BROCOLIS NINJA UNID gtin: 00000000000022 inserido com o id: 23
-Produto: PCTE BATATA BOLINHA 1KG gtin: 00000000000023 inserido com o id: 24
-Produto: COCO SECO RALADO KG gtin: 00000000000024 inserido com o id: 25
-Produto: BDJ BATATA LAVADA PICADA gtin: 00000000000025 inserido com o id: 26
-Produto: CEBOLINHA MC gtin: 00000000000026 inserido com o id: 27
-Produto: CENOURA MC DUPLICADO 99 gtin: 00000000000027 inserido com o id: 28
-Produto: CHICORIA UNID gtin: 00000000000028 inserido com o id: 29
-Produto: COENTRO MC gtin: 00000000000029 inserido com o id: 30
-Produto: AGUA MINERAL PURAQUA 510ML gtin: 07898994011385 inserido com o id: 31
-Produto: BDJ INHAME gtin: 00000000000030 inserido com o id: 32
-Produto: COUVE FLOR UNID gtin: 00000000000031 inserido com o id: 33
-Produto: COUVE MANTEIGA MC gtin: 00000000000032 inserido com o id: 34
-Produto: ENDIVIA MC gtin: 00000000000033 inserido com o id: 35
-Produto: ESCAROLA UNID gtin: 00000000000034 inserido com o id: 36
-Produto: ESPINAFRE MC gtin: 00000000000035 inserido com o id: 37
-Produto: GOBO UNID gtin: 00000000000036 inserido com o id: 38
-Produto: HORTELA MC DUPLICADO 99 gtin: 00000000000037 inserido com o id: 39
-Produto: LOURO BDJ gtin: 00000000000038 inserido com o id: 40
-Produto: MANJERICAO MC gtin: 00000000000039 inserido com o id: 41
-Produto: MASTRUZ MC gtin: 00000000000040 inserido com o id: 42
-Produto: MOSTARDA MC gtin: 00000000000041 inserido com o id: 43
-Produto: NABO UNID gtin: 00000000000042 inserido com o id: 44
-Produto: BDJ RABANETE 700G gtin: 00000000000043 inserido com o id: 45
-Produto: RADICCHIO MC gtin: 00000000000044 inserido com o id: 46
-Produto: CERVEJA SKOL 473 ML DUPLICADO 99 gtin: 00000000000045 inserido com o id: 47
-Produto: REPOLHO ROXO UNID gtin: 00000000000046 inserido com o id: 48
-Produto: REPOLHO VERDE KG gtin: 00000000000047 inserido com o id: 49
-Produto: RUCULA MC gtin: 00000000000048 inserido com o id: 50
-Produto: RUCULA HIDROPONICA M gtin: 00000000000049 inserido com o id: 51
-Produto: SALSA gtin: 00000000000050 inserido com o id: 52
-Produto: SALSAO UNID gtin: 00000000000051 inserido com o id: 53
-Produto: TRIO HIDROPONICO UN gtin: 00000000000052 inserido com o id: 54
-Produto: VERDURA PROMO gtin: 00000000000053 inserido com o id: 55
-Produto: BDJ BANANA gtin: 00000000000054 inserido com o id: 56
-Produto: BDJ BERINJELA NAPOLI gtin: 00000000000055 inserido com o id: 57
-Produto: BDJ BETERRABA RALADA KG gtin: 00000000000056 inserido com o id: 58
-Produto: BDJ BROC E FLOR UN gtin: 00000000000057 inserido com o id: 59
-Produto: BDJ AB ITALIA C/ CENOURA FATIADA UN gtin: 00000000000058 inserido com o id: 60
-Produto: BDJ BERIN RAJADA UN gtin: 00000000000059 inserido com o id: 61
-Produto: BDJ CHEIRO VERDE gtin: 00000000000060 inserido com o id: 62
-Produto: BDJ C/6 OVOS gtin: 07897185500233 inserido com o id: 63
-Produto: BDJ COUVE E REPOLHO gtin: 00000000000061 inserido com o id: 64
-Produto: BDJ GOBO gtin: 00000000000062 inserido com o id: 65
-Produto: BDJ MIX gtin: 00000000000063 inserido com o id: 66
-Produto: BDJ NABO gtin: 00000000000064 inserido com o id: 67
-Produto: BDJ RABANETE DUPLICADO 99 gtin: 00000000000065 inserido com o id: 68
-Produto: REPOLHO ROXO KG gtin: 00000000000066 inserido com o id: 69
-Produto: BDJ REP C/ COUV M KG gtin: 00000000000067 inserido com o id: 70
-Produto: BDJ SALADA MIX gtin: 00000000000068 inserido com o id: 71
-Produto: BDJ SALSA gtin: 00000000000069 inserido com o id: 72
-Produto: BDJ VINAGRETE  KG gtin: 00000000000070 inserido com o id: 73
-Produto: BDJ YAKISSOBA 800G gtin: 00000000000071 inserido com o id: 74
-Produto: REPOLHO UN gtin: 00000000000072 inserido com o id: 75
-Produto: VASILHAME COCA C 2LT gtin: 00000000000073 inserido com o id: 76
-Produto: BDJ TEMPERO COMPLETO UN gtin: 00000000000074 inserido com o id: 77
-Produto: BDJ BERINJELA REDOND gtin: 00000000000075 inserido com o id: 78
-Produto: LEITE AV DAV S 180ML gtin: 00000000000076 inserido com o id: 79
-Produto: BALA DIVERSAS gtin: 00000000000077 inserido com o id: 80
-Produto: VERDURA PROMOCAO DUPLICADO 99 gtin: 00000000000078 inserido com o id: 81
-Produto: BOBINA GONDOLA gtin: 00000000000079 inserido com o id: 82
-Produto: BOMBOM UN gtin: 00000000000080 inserido com o id: 83
-Produto: BDJ PIMENTA CHEIRO DOCE gtin: 00000000000081 inserido com o id: 84
-Produto: BISC BELA VISTA LEIT gtin: 00000000000082 inserido com o id: 85
-Produto: VINAGRE TOSC VIN BC gtin: 00000000000083 inserido com o id: 86
-Produto: MULT IN RAI MA BA/FO gtin: 00000000000084 inserido com o id: 87
-Produto: MULT IN RAI MA LIM 3 gtin: 00000000000085 inserido com o id: 88
-Produto: APAR ELET RAID 2REFI gtin: 00000000000086 inserido com o id: 89
-Produto: MULT IN RAID EUC 300 gtin: 00000000000087 inserido com o id: 90
-Produto: VELA MARIAZINHA 8 1U DUPLICADO 99 gtin: 00000000000088 inserido com o id: 91
-Produto: VELA MARIAZINHA 8 1U gtin: 00000000000089 inserido com o id: 92
-Produto: CERVEJA SKOL 473 ML gtin: 00000000000090 inserido com o id: 93
-Produto: DOCE AMEN CARDOSO 50 gtin: 00000000000091 inserido com o id: 94
-Produto: TESTE KG gtin: 00000000123456 inserido com o id: 95
-Produto: ORQUIDEA VERDE gtin: 00000000000092 inserido com o id: 96
-Produto: KIT SH+COND SEDA 350 gtin: 00000000000093 inserido com o id: 97
-Produto: BDJ COUVE MANTEIGA UN gtin: 00000000000094 inserido com o id: 98
-Produto: ERVIL HA FUGINI LT 2 gtin: 00000000000095 inserido com o id: 99
-Produto: MILH E ERV FUGINI 20 gtin: 00000000000096 inserido com o id: 100
-Produto: MORTADELA AURORA KG gtin: 00000000000097 inserido com o id: 101
-Produto: BEB CERESER FLAM 660 gtin: 00000000000098 inserido com o id: 102
-Produto: BEB CERESER SANTOS 6 gtin: 00000000000099 inserido com o id: 103
-Produto: ABACATE VERDE KG gtin: 00000000000100 inserido com o id: 104
-Produto: ABACATE KG gtin: 00000000000101 inserido com o id: 105
-Produto: ABACATE MANTEIGA KG gtin: 00000000000102 inserido com o id: 106
-Produto: BDJ ABACAXI HAWAI gtin: 00000000000103 inserido com o id: 107
-Produto: ABACAXI HAWAI UNID gtin: 00000000000104 inserido com o id: 108
-Produto: ABACAXI PEROLA UNID MADURO gtin: 00000000000105 inserido com o id: 109
-Produto: ABACAXI PROMO UNID gtin: 00000000000106 inserido com o id: 110
-Produto: ACEROLA KG gtin: 00000000000107 inserido com o id: 111
-Produto: AMEIXA AGEMA gtin: 00000000000108 inserido com o id: 112
-Produto: AMEIXA IMPORTADA KG gtin: 00000000000109 inserido com o id: 113
-Produto: AMEIXA NACIONAL KG gtin: 00000000000110 inserido com o id: 114
-Produto: AMEIXA GEMA  KG gtin: 00000000000111 inserido com o id: 115
-Produto: AMEIXA RUBI MEL KG gtin: 00000000000112 inserido com o id: 116
-Produto: AMEIXA STA ROSA KG gtin: 00000000000113 inserido com o id: 117
-Produto: AMENDOIM KG gtin: 00000000000114 inserido com o id: 118
-Produto: AMORA KG gtin: 00000000000115 inserido com o id: 119
-Produto: ATEMOIA KG gtin: 00000000000116 inserido com o id: 120
-Produto: BACURI KG gtin: 00000000000117 inserido com o id: 121
-Produto: CAIXA BANANA NANICA gtin: 00000000000118 inserido com o id: 122
-Produto: BANANA DAGUA KG gtin: 00000000000119 inserido com o id: 123
-Produto: BANANA MACA KG gtin: 00000000000120 inserido com o id: 124
-Produto: BANANA NANICA KG gtin: 00000000000121 inserido com o id: 125
-Produto: BDJ C/20 OVOS BRANCOS gtin: 07897185500042 inserido com o id: 126
-Produto: BANANA OURO KG gtin: 00000000000122 inserido com o id: 127
-Produto: BANANA PAO KG gtin: 00000000000123 inserido com o id: 128
-Produto: BANANA PRATA KG gtin: 00000000000124 inserido com o id: 129
-Produto: FRUTAS PROMOCAO gtin: 00000000000125 inserido com o id: 130
-Produto: BANANA ROXA KG gtin: 00000000000126 inserido com o id: 131
-Produto: CACAU KG gtin: 00000000000127 inserido com o id: 132
-Produto: CAJA KG gtin: 00000000000128 inserido com o id: 133
-Produto: CAJU gtin: 00000000000129 inserido com o id: 134
-Produto: CAMAPU KG gtin: 00000000000130 inserido com o id: 135
-Produto: CANISTEL KG gtin: 00000000000131 inserido com o id: 136
-Produto: CAQUI CHOCOLATE KG gtin: 00000000000132 inserido com o id: 137
-Produto: CAQUI FUYU KG gtin: 00000000000133 inserido com o id: 138
-Produto: CAQUI IMPORTADO KG gtin: 00000000000134 inserido com o id: 139
-Produto: CAQUI QUIOMBO KG gtin: 00000000000135 inserido com o id: 140
-Produto: CAQUI RAMA FORTE gtin: 00000000000136 inserido com o id: 141
-Produto: CARAMBOLA KG gtin: 00000000000137 inserido com o id: 142
-Produto: CASTANHA DO PARA KG gtin: 00000000000138 inserido com o id: 143
-Produto: CASTANHA KG gtin: 00000000000139 inserido com o id: 144
-Produto: CASTANHA PORTUGUESA gtin: 00000000000140 inserido com o id: 145
-Produto: CEREJA PCT 250G gtin: 00000000000141 inserido com o id: 146
-Produto: CHIRIMOYA KG gtin: 00000000000142 inserido com o id: 147
-Produto: CIRIGUELA KG gtin: 00000000000143 inserido com o id: 148
-Produto: COCO SECO KG gtin: 00000000000144 inserido com o id: 149
-Produto: COCO VERDE UNID gtin: 00000000000145 inserido com o id: 150
-Produto: CUPUACU KG gtin: 00000000000146 inserido com o id: 151
-Produto: MEXERICA DEKOPON UN gtin: 00000000000147 inserido com o id: 152
-Produto: EMBU KG gtin: 00000000000148 inserido com o id: 153
-Produto: BDJ FIGO VERDE gtin: 00000000000149 inserido com o id: 154
-Produto: FRAMBOESA KG gtin: 00000000000150 inserido com o id: 155
-Produto: BDJ PIMENTA CAMBUCI gtin: 00000000000151 inserido com o id: 156
-Produto: GOIABA BRANCA KG gtin: 00000000000152 inserido com o id: 157
-Produto: OVO DE CODORNA C/30 DUPLICADO 99 gtin: 07898952439619 inserido com o id: 158
-Produto: GOIABA VERMELHA GG KG gtin: 00000000000153 inserido com o id: 159
-Produto: GRANADILHA KG gtin: 00000000000154 inserido com o id: 160
-Produto: GRAVIOLA KG gtin: 00000000000155 inserido com o id: 161
-Produto: JABUTICABA gtin: 00000000000156 inserido com o id: 162
-Produto: JACA KG gtin: 00000000000157 inserido com o id: 163
-Produto: JAMBO KG gtin: 00000000000158 inserido com o id: 164
-Produto: JENIPAPO KG gtin: 00000000000159 inserido com o id: 165
-Produto: KINKAN KG gtin: 00000000000160 inserido com o id: 166
-Produto: KIWANO KG gtin: 00000000000161 inserido com o id: 167
-Produto: KIWI KG gtin: 00000000000162 inserido com o id: 168
-Produto: KIWI UN gtin: 00000000000163 inserido com o id: 169
-Produto: LARANJA BAHIA KG gtin: 00000000000164 inserido com o id: 170
-Produto: LARANJA KG OFERTA gtin: 00000000000165 inserido com o id: 171
-Produto: LARANJA LIMA DA PERS gtin: 00000000000166 inserido com o id: 172
-Produto: LARANJA LIMA KG gtin: 00000000000167 inserido com o id: 173
-Produto: LARANJA PERA KG gtin: 00000000000168 inserido com o id: 174
-Produto: LARANJA SACO UN gtin: 00000000000169 inserido com o id: 175
-Produto: LICHIA KG gtin: 00000000000171 inserido com o id: 176
-Produto: LIMAO GALEGO KG gtin: 00000000000172 inserido com o id: 177
-Produto: LIMAO ROSA KG gtin: 00000000000173 inserido com o id: 178
-Produto: LIMAO SICILIANO KG gtin: 00000000000174 inserido com o id: 179
-Produto: LIMAO THAITI KG gtin: 00000000000175 inserido com o id: 180
-Produto: LONGAN KG gtin: 00000000000176 inserido com o id: 181
-Produto: MACA ARGENTINA KG gtin: 00000000000177 inserido com o id: 182
-Produto: MACA GALA IMPORTADA KG gtin: 00000000000178 inserido com o id: 183
-Produto: MACA FUJI KG gtin: 00000000000179 inserido com o id: 184
-Produto: MACA GALA KG gtin: 00000000000180 inserido com o id: 185
-Produto: MACA MIUDA KG gtin: 00000000000181 inserido com o id: 186
-Produto: MACA RED KG gtin: 00000000000182 inserido com o id: 187
-Produto: MACA PROMO KG gtin: 00000000000183 inserido com o id: 188
-Produto: MACA VERDE KG gtin: 00000000000184 inserido com o id: 189
-Produto: MACADAMIA KG gtin: 00000000000185 inserido com o id: 190
-Produto: MAMAO FORMOSA UN gtin: 00000000000186 inserido com o id: 191
-Produto: MAMAO PAPAYA VERDE KG gtin: 00000000000187 inserido com o id: 192
-Produto: MAMAO PAPAIA UN gtin: 00000000000188 inserido com o id: 193
-Produto: MAMAO PAPAIA KG gtin: 00000000000189 inserido com o id: 194
-Produto: MANA KG gtin: 00000000000190 inserido com o id: 195
-Produto: MANGA BOURBOM KG gtin: 00000000000191 inserido com o id: 196
-Produto: MANGA COQUINHO KG gtin: 00000000000192 inserido com o id: 197
-Produto: MANGA ESPADA KG gtin: 00000000000193 inserido com o id: 198
-Produto: MANGA HADEN KG gtin: 00000000000194 inserido com o id: 199
-Produto: MANGA KEITH KG gtin: 00000000000195 inserido com o id: 200
-Produto: MANGA OURO KG gtin: 00000000000196 inserido com o id: 201
-Produto: MANGA PALMER KG gtin: 00000000000197 inserido com o id: 202
-Produto: MANGA PROMO KG gtin: 00000000000198 inserido com o id: 203
-Produto: MANGA ROSA KG gtin: 00000000000199 inserido com o id: 204
-Produto: MANGA TOMY KG gtin: 00000000000200 inserido com o id: 205
-Produto: MANGA TROPICAL KG gtin: 00000000000201 inserido com o id: 206
-Produto: MANGA VANDAIK KG gtin: 00000000000202 inserido com o id: 207
-Produto: MANGOSTIM gtin: 00000000000203 inserido com o id: 208
-Produto: MARACUJA DOCE KG gtin: 00000000000204 inserido com o id: 209
-Produto: MARACUJA KG gtin: 00000000000205 inserido com o id: 210
-Produto: MELANCIA BABY gtin: 00000000000206 inserido com o id: 211
-Produto: MELANCIA INTEIRA UNI gtin: 00000000000207 inserido com o id: 212
-Produto: MELANCIA METADE UNID gtin: 00000000000208 inserido com o id: 213
-Produto: MELANCIA PEDACO UNID. gtin: 00000000000209 inserido com o id: 214
-Produto: MELANCIA REI UN gtin: 00000000000210 inserido com o id: 215
-Produto: MELAO AMARELO MELISSA gtin: 00000000000211 inserido com o id: 216
-Produto: MELAO AMARELO REI KG gtin: 00000000000212 inserido com o id: 217
-Produto: MELAO AMARELO UN gtin: 00000000000213 inserido com o id: 218
-Produto: TOMATE CARMEM KG DUPLICADO 99 gtin: 00000000012345 inserido com o id: 219
-Produto: MELAO CANTALOUPE UN gtin: 00000000000214 inserido com o id: 220
-Produto: MELAO GALIA UN gtin: 00000000000215 inserido com o id: 221
-Produto: MELAO METADE UNID gtin: 00000000000216 inserido com o id: 222
-Produto: MELAO ORANGE gtin: 00000000000217 inserido com o id: 223
-Produto: MELAO GAIA UN gtin: 00000000000218 inserido com o id: 224
-Produto: MELAO SAPO REI KG gtin: 00000000000219 inserido com o id: 225
-Produto: MELAO SAPO UN gtin: 00000000000220 inserido com o id: 226
-Produto: MEXIRICA CARIOQUINHA gtin: 00000000000221 inserido com o id: 227
-Produto: MEXIRICA MURCOTT TIPO A KG gtin: 00000000000222 inserido com o id: 228
-Produto: MEXIRICA MURCOTT KG gtin: 00000000000223 inserido com o id: 229
-Produto: MEXIRICA PONKAN KG gtin: 00000000000224 inserido com o id: 230
-Produto: MEXIRICA VERONA KG gtin: 00000000000225 inserido com o id: 231
-Produto: BDJ MORANGO TIPO A gtin: 00000000000226 inserido com o id: 232
-Produto: BANANA PROMOCAO gtin: 00000000000227 inserido com o id: 233
-Produto: NECTARINA IMPORTADA KG gtin: 00000000000228 inserido com o id: 234
-Produto: NECTARINA NACIONAL K gtin: 00000000000229 inserido com o id: 235
-Produto: NESPERA gtin: 00000000000230 inserido com o id: 236
-Produto: BDJ NONI gtin: 00000000000231 inserido com o id: 237
-Produto: NOZES KG gtin: 00000000000232 inserido com o id: 238
-Produto: PEQUI KG gtin: 00000000000233 inserido com o id: 239
-Produto: PERA ASIATICA KG gtin: 00000000000234 inserido com o id: 240
-Produto: PERA BARTLETT KG gtin: 00000000000235 inserido com o id: 241
-Produto: PERA CHILENA KG gtin: 00000000000236 inserido com o id: 242
-Produto: PERA PORTUGUESA BDJ gtin: 00000000000237 inserido com o id: 243
-Produto: PERA DANJU  KG gtin: 00000000000238 inserido com o id: 244
-Produto: PERA PARK KG gtin: 00000000000239 inserido com o id: 245
-Produto: PERA PORTUGUESA KG gtin: 00000000000240 inserido com o id: 246
-Produto: PERA VERMELHA KG gtin: 00000000000241 inserido com o id: 247
-Produto: PERA WILLIANS KG gtin: 00000000000242 inserido com o id: 248
-Produto: PESSEGO NACIONAL KG gtin: 00000000000243 inserido com o id: 249
-Produto: MANGA TOMMY gtin: 00000000014236 inserido com o id: 250
-Produto: PESSEGO IMPORTADO KG gtin: 00000000000244 inserido com o id: 251
-Produto: PESSEGO NACIONAL CAIXA gtin: 00000000000245 inserido com o id: 252
-Produto: PINHA KG DUPLICADO 99 gtin: 00000000000246 inserido com o id: 253
-Produto: PINHA KG gtin: 00000000000247 inserido com o id: 254
-Produto: PITAIA KG gtin: 00000000000248 inserido com o id: 255
-Produto: PITANGA KG gtin: 00000000000249 inserido com o id: 256
-Produto: PITOMBA KG gtin: 00000000000250 inserido com o id: 257
-Produto: RAMBUTAN UND gtin: 00000000000251 inserido com o id: 258
-Produto: ROMA UN gtin: 00000000000252 inserido com o id: 259
-Produto: SAPOTI gtin: 00000000000253 inserido com o id: 260
-Produto: TAMARINDO KG gtin: 00000000000254 inserido com o id: 261
-Produto: TORANJA KG gtin: 00000000000255 inserido com o id: 262
-Produto: UVA BENITAKA KG gtin: 00000000000256 inserido com o id: 263
-Produto: UVA BRASIL KG gtin: 00000000000257 inserido com o id: 264
-Produto: UVA CABERNET KG gtin: 00000000000258 inserido com o id: 265
-Produto: UVA CRIMSSON KG gtin: 00000000000259 inserido com o id: 266
-Produto: BDJ UVA ALGODAO DOCE gtin: 00000000000260 inserido com o id: 267
-Produto: UVA ITALIA KG gtin: 00000000000261 inserido com o id: 268
-Produto: UVA PROMOA+O UN gtin: 00000000000262 inserido com o id: 269
-Produto: UVA NIAGARA KG gtin: 00000000000263 inserido com o id: 270
-Produto: UVA PRETINHA KG gtin: 00000000000264 inserido com o id: 271
-Produto: UVA CAIXA UN gtin: 00000000000265 inserido com o id: 272
-Produto: UVA RED GLOB KG gtin: 00000000000266 inserido com o id: 273
-Produto: UVA RED MEIRE KG gtin: 00000000000267 inserido com o id: 274
-Produto: UVA RUBI KG gtin: 00000000000268 inserido com o id: 275
-Produto: UVA SEM SEMENTE UN gtin: 00000000000269 inserido com o id: 276
-Produto: BDJ ACEROLA gtin: 00000000000270 inserido com o id: 277
-Produto: BDJ AMEIXA RUBI MEL UN gtin: 00000000000271 inserido com o id: 278
-Produto: BDJ ABACAXI  PEROLA UN gtin: 00000000000272 inserido com o id: 279
-Produto: BDJ AMORA gtin: 00000000000273 inserido com o id: 280
-Produto: ATEMOIA gtin: 00000000000274 inserido com o id: 281
-Produto: PT POL MARACUJA 200G gtin: 00000000000275 inserido com o id: 282
-Produto: BDJ CACAU gtin: 00000000000276 inserido com o id: 283
-Produto: BDJ CAJA MANGA KG gtin: 00000000000277 inserido com o id: 284
-Produto: BDJ CAJU gtin: 00000000000278 inserido com o id: 285
-Produto: BDJ CAMAPU gtin: 00000000000279 inserido com o id: 286
-Produto: BDJ UVA CRIMSON gtin: 00000000000280 inserido com o id: 287
-Produto: CAQUI CHOCOLATE UN gtin: 00000000000281 inserido com o id: 288
-Produto: BDJ CARAMBOLA KG gtin: 00000000000282 inserido com o id: 289
-Produto: BDJ MIX BROCOLIS E COUVE FLOR gtin: 00000000000283 inserido com o id: 290
-Produto: BDJ CHIRIMOYA gtin: 00000000000284 inserido com o id: 291
-Produto: BDJ SIRIGUELA gtin: 00000000000285 inserido com o id: 292
-Produto: BDJ COCO SECO KG gtin: 00000000000286 inserido com o id: 293
-Produto: POLPA DE GOIABA gtin: 00000000000287 inserido com o id: 294
-Produto: BDJ CUPUACU gtin: 00000000000288 inserido com o id: 295
-Produto: BDJ DEKOPON gtin: 00000000000289 inserido com o id: 296
-Produto: BDJ EMBU 500G gtin: 00000000000290 inserido com o id: 297
-Produto: BDJ FIGO DA INDIA UN DUPLICADO 99 gtin: 00000000000291 inserido com o id: 298
-Produto: BDJ FIGO ROXO DUPLICADO 99 gtin: 00000000000292 inserido com o id: 299
-Produto: BDJ FRAMBOESA DUPLICADO 99 gtin: 00000000000293 inserido com o id: 300
-Produto: BDJ FRUTA PAO gtin: 00000000000294 inserido com o id: 301
-Produto: BDJ GOIABA BRANCA KG gtin: 00000000000295 inserido com o id: 302
-Produto: BDJ GRANADILHA gtin: 00000000000296 inserido com o id: 303
-Produto: SUCO GRAVIOLA 300ML gtin: 00000000000297 inserido com o id: 304
-Produto: BDJ JABUTICABA KG gtin: 00000000000298 inserido com o id: 305
-Produto: BDJ JACA gtin: 00000000000299 inserido com o id: 306
-Produto: BDJ JAMBO gtin: 00000000000300 inserido com o id: 307
-Produto: BDJ UVA NIAGARA 500G gtin: 00000000000301 inserido com o id: 308
-Produto: BDJ KINKAN gtin: 00000000000302 inserido com o id: 309
-Produto: BDJ KIWI KG gtin: 00000000000303 inserido com o id: 310
-Produto: BDJ UVA RUBI gtin: 00000000000304 inserido com o id: 311
-Produto: BDJ LICHIA gtin: 00000000000305 inserido com o id: 312
-Produto: BDJ C/ 12 OVOS BRANCOS gtin: 07897185500219 inserido com o id: 313
-Produto: BDJ LONGAN gtin: 00000000000306 inserido com o id: 314
-Produto: BDJ MACA FUJI gtin: 00000000000307 inserido com o id: 315
-Produto: MAMAO FORMOSA gtin: 00000000000308 inserido com o id: 316
-Produto: BDJ MANGOSTIM gtin: 00000000000309 inserido com o id: 317
-Produto: BDJ MORANGO 240G gtin: 00000000000310 inserido com o id: 318
-Produto: BDJ NECTARINA IMPORTADA UN gtin: 00000000000311 inserido com o id: 319
-Produto: BDJ NESPERA gtin: 00000000000312 inserido com o id: 320
-Produto: BDJ MELAO FATIADO UN gtin: 00000000000313 inserido com o id: 321
-Produto: BDJ PEQUI gtin: 00000000000314 inserido com o id: 322
-Produto: BDJ PESSEGO UND gtin: 00000000000315 inserido com o id: 323
-Produto: BDJ PINHA gtin: 00000000000316 inserido com o id: 324
-Produto: PINHAO KG gtin: 00000000000317 inserido com o id: 325
-Produto: BDJ PITAIA gtin: 00000000000318 inserido com o id: 326
-Produto: BDJ PITANGA gtin: 00000000000319 inserido com o id: 327
-Produto: BDJ PITOMBA gtin: 00000000000320 inserido com o id: 328
-Produto: BDJ RAMBUTAN DUPLICADO 99 gtin: 00000000000321 inserido com o id: 329
-Produto: BDJ ROMA gtin: 00000000000322 inserido com o id: 330
-Produto: BDJ SAPOTI gtin: 00000000000323 inserido com o id: 331
-Produto: BDJ TAMARINDO gtin: 00000000000324 inserido com o id: 332
-Produto: BDJ LENTILHA KG gtin: 00000000000325 inserido com o id: 333
-Produto: BDJ UVA BENITAKA UN gtin: 00000000000326 inserido com o id: 334
-Produto: BDJ PROMOA+O DUPLICADO 99 gtin: 00000000000327 inserido com o id: 335
-Produto: LARANJ PERA PACOTE gtin: 00000000000328 inserido com o id: 336
-Produto: BDJ UVA S SEMENTE gtin: 00000000000329 inserido com o id: 337
-Produto: BDJ MELANCIA PEDAOS gtin: 00000000000330 inserido com o id: 338
-Produto: BDJ UMBU UN DUPLICADO 99 gtin: 00000000000331 inserido com o id: 339
-Produto: BDJ UVA ITALIA gtin: 00000000000332 inserido com o id: 340
-Produto: BDJ CAQ RAM FOR G UN gtin: 00000000000333 inserido com o id: 341
-Produto: BDJ UVA RED GLOB gtin: 00000000000334 inserido com o id: 342
-Produto: BDJ UVA BRASIL gtin: 00000000000335 inserido com o id: 343
-Produto: BDJ FIGO ROXO gtin: 00000000000336 inserido com o id: 344
-Produto: FEEL GOOD CH VERDE SABOR LARANJA E GENGIBRE 1L gtin: 07898192032564 inserido com o id: 345
-Produto: BEB CERESER S.PAULO gtin: 00000000000337 inserido com o id: 346
-Produto: BEB CERESER CORINT 6 gtin: 00000000000338 inserido com o id: 347
-Produto: PEITO DE FRANGO S OSSO gtin: 00000000000339 inserido com o id: 348
-Produto: AMEIXA CALDA OL+ 150 gtin: 00000000000340 inserido com o id: 349
-Produto: LEN?OS UM COTTON 400 gtin: 00000000000341 inserido com o id: 350
-Produto: LEN?OS UM COTTON R 4 gtin: 00000000000342 inserido com o id: 351
-Produto: LEN?O UMED COT AZ 70 gtin: 00000000000343 inserido com o id: 352
-Produto: LEN?O UMED COT RO 75 gtin: 00000000000344 inserido com o id: 353
-Produto: SUPER BONDER 1.5G gtin: 00000000000345 inserido com o id: 354
-Produto: LAMINA BIC C/5UN gtin: 00000000000346 inserido com o id: 355
-Produto: DESOD NIVEA AERO PR/ gtin: 00000000000347 inserido com o id: 356
-Produto: PRESUNTO NOBRE KG gtin: 00000000000348 inserido com o id: 357
-Produto: LR PO ARIEL L 1K P90 gtin: 00000000000349 inserido com o id: 358
-Produto: BEBEZINHO PANCO CHOCOLATE 70G DUPLICADO 99 gtin: 00000000000350 inserido com o id: 359
-Produto: DESINF PINHO BRIL EU gtin: 00000000000351 inserido com o id: 360
-Produto: DESINF PINHO BRIL BR gtin: 00000000000352 inserido com o id: 361
-Produto: DESINF PINHO BRIL FL gtin: 00000000000353 inserido com o id: 362
-Produto: KIT SH+COND SEDA L P gtin: 00000000000354 inserido com o id: 363
-Produto: KIT SH+COND OLEO HID gtin: 00000000000355 inserido com o id: 364
-Produto: KIT SH+COND CERAMID gtin: 00000000000356 inserido com o id: 365
-Produto: BISC PANCO DEL SAL 2 gtin: 00000000000357 inserido com o id: 366
-Produto: BDJ CAQ RM FTE 600G gtin: 00000000000358 inserido com o id: 367
-Produto: FRANGO PASSARINHO TEMPERADO KG gtin: 00000000000359 inserido com o id: 368
-Produto: MORTADELA DEF AURORA KG gtin: 00000000000360 inserido com o id: 369
-Produto: MORTADELA AURORA DEF. KG gtin: 00000000000361 inserido com o id: 370
-Produto: BOLO PULMAN MAD PAUNILHA gtin: 00000000000362 inserido com o id: 371
-Produto: VINAGRE VITALIA ALC DUPLICADO 99 gtin: 00000000000363 inserido com o id: 372
-Produto: PRESUNTO PERDIGAO KG gtin: 00000000000364 inserido com o id: 373
-Produto: VINAGRE CASTELO AR 7 gtin: 00000000000365 inserido com o id: 374
-Produto: FEEL GOOD CH VERMELHO 1L gtin: 07898192033578 inserido com o id: 375
-Produto: VINAGRE CAST ALCOOL7 gtin: 00000000000366 inserido com o id: 376
-Produto: ABS IT IG SECA  C/AB gtin: 00000000000367 inserido com o id: 377
-Produto: CAFE SOL 3 COR CC 10 gtin: 00000000000368 inserido com o id: 378
-Produto: REFR MID GROSELHA 25 gtin: 00000000000369 inserido com o id: 379
-Produto: TEMP EMPORIO MAX AP gtin: 00000000000370 inserido com o id: 380
-Produto: TEMP EMPORIO NOZES S gtin: 00000000000371 inserido com o id: 381
-Produto: TEMP EMPORIO AMEIXA gtin: 00000000000372 inserido com o id: 382
-Produto: FRANGO TEMPERADO KG gtin: 00000000000373 inserido com o id: 383
-Produto: BEB RED BLEND 890ML DUPLICADO 99 gtin: 00000000000374 inserido com o id: 384
-Produto: BISC SEQ MABE CAS 40 gtin: 00000000000375 inserido com o id: 385
-Produto: RAFFAELLO FERRERO 30 gtin: 00000000000376 inserido com o id: 386
-Produto: SARDINHA COQ OL/LIM gtin: 00000000000377 inserido com o id: 387
-Produto: ALC COPER EUCALIPTO gtin: 00000000000378 inserido com o id: 388
-Produto: LEGUMES PROMOCAO gtin: 00000000000379 inserido com o id: 389
-Produto: FILE DE MELUSA KG gtin: 00000000000380 inserido com o id: 390
-Produto: BOLINHO PANFI  CHOCOLATE C/ CHOCOLATE 70G gtin: 00000000000381 inserido com o id: 391
-Produto: MOLHO TOM QUERO ERVAS 340G gtin: 00000000000382 inserido com o id: 392
-Produto: AZEITONA OLE V VD FA gtin: 00000000000383 inserido com o id: 393
-Produto: AZEITONA OLE V VD S/ gtin: 00000000000384 inserido com o id: 394
-Produto: LEITE PO ITA IN 400G gtin: 00000000000385 inserido com o id: 395
-Produto: PALITO THEOTO C/100U gtin: 00000000000386 inserido com o id: 396
-Produto: MOLHO SALADA LIZA BA gtin: 00000000000387 inserido com o id: 397
-Produto: ANT SEP PLAX COL LU gtin: 00000000000388 inserido com o id: 398
-Produto: QUEIJO PARMESAO RALADO KG DUPLICADO 99 gtin: 00000000000389 inserido com o id: 399
-Produto: BDJ FRAMBOESA gtin: 00000000000390 inserido com o id: 400
-Produto: PRESUNTO SEARA KG gtin: 00000000000391 inserido com o id: 401
-Produto: UVA NIAGARA gtin: 00000000000392 inserido com o id: 402
-Produto: FILE DE MELUSA  EMBALADO gtin: 00000000000393 inserido com o id: 403
-Produto: CHULETINHA gtin: 00000000000394 inserido com o id: 404
-Produto: FEEL GOOD CH AMARELO 1L gtin: 07898192039891 inserido com o id: 405
-Produto: QUEIJO FRESCAL QUADRADO KG gtin: 00000000000395 inserido com o id: 406
-Produto: ALCOOL TUPI GEL 46.2 gtin: 00000000000396 inserido com o id: 407
-Produto: AGUARD VBAR LIM 910M gtin: 00000000000397 inserido com o id: 408
-Produto: BDJ ABOBORA BRASILEIRA gtin: 00000000000398 inserido com o id: 409
-Produto: ALCOOL TU GE AC 425G gtin: 00000000000399 inserido com o id: 410
-Produto: ABOBORA BRASILEIRA KG gtin: 00000000000400 inserido com o id: 411
-Produto: ABOBORA CABOTIA KG gtin: 00000000000401 inserido com o id: 412
-Produto: ABOBORA CLARITA KG gtin: 00000000000402 inserido com o id: 413
-Produto: ABOBORA ITALIA KG gtin: 00000000000403 inserido com o id: 414
-Produto: ABOBORA MOCA KG gtin: 00000000000404 inserido com o id: 415
-Produto: ABOBORA MORANGA KG gtin: 00000000000405 inserido com o id: 416
-Produto: ABOBORA MINI KG gtin: 00000000000406 inserido com o id: 417
-Produto: ABOBORA PAULISTA KG gtin: 00000000000407 inserido com o id: 418
-Produto: ABOBORA PESCOCO KG gtin: 00000000000408 inserido com o id: 419
-Produto: ALHO KG gtin: 00000000000409 inserido com o id: 420
-Produto: BATATA ASTERIX KG gtin: 00000000000410 inserido com o id: 421
-Produto: BATATA GRAUDA KG gtin: 00000000000411 inserido com o id: 422
-Produto: BATATA BONECA KG gtin: 00000000000412 inserido com o id: 423
-Produto: BATATA DOCE BRANCA KG gtin: 00000000000413 inserido com o id: 424
-Produto: BATATA DOCE ROXA KG gtin: 00000000000414 inserido com o id: 425
-Produto: BATATA ESPECIAL KG gtin: 00000000000415 inserido com o id: 426
-Produto: BATATA LAVADA KG gtin: 00000000000416 inserido com o id: 427
-Produto: BATATA MONALIZA KG gtin: 00000000000417 inserido com o id: 428
-Produto: BATATA YAKON KG gtin: 00000000000418 inserido com o id: 429
-Produto: BERINJELA COMUM KG gtin: 00000000000419 inserido com o id: 430
-Produto: BDJ BERINJELA CONSERVA KG gtin: 00000000000420 inserido com o id: 431
-Produto: BERINJELA JAPONESA KG gtin: 00000000000421 inserido com o id: 432
-Produto: BERINJELA RAJADA KG gtin: 00000000000422 inserido com o id: 433
-Produto: BERINJELA ROXA KG gtin: 00000000000423 inserido com o id: 434
-Produto: BETERRABA KG gtin: 00000000000424 inserido com o id: 435
-Produto: CARA KG gtin: 00000000000425 inserido com o id: 436
-Produto: CAXI KG gtin: 00000000000426 inserido com o id: 437
-Produto: CEBOLA ARGENTINA KG gtin: 00000000000427 inserido com o id: 438
-Produto: CEBOLA CHILENA KG gtin: 00000000000428 inserido com o id: 439
-Produto: CEBOLA CONSERVA KG gtin: 00000000000429 inserido com o id: 440
-Produto: CEBOLA NACIONAL KG gtin: 00000000000430 inserido com o id: 441
-Produto: BDJ CEBOLA  KG gtin: 00000000000431 inserido com o id: 442
-Produto: CEBOLA ROXA KG gtin: 00000000000432 inserido com o id: 443
-Produto: CENOURA BABY KG gtin: 00000000000433 inserido com o id: 444
-Produto: CENOURA KG gtin: 00000000000434 inserido com o id: 445
-Produto: CHUCHU COMUM KG gtin: 00000000000435 inserido com o id: 446
-Produto: CHUCHU PRETO KG gtin: 00000000000436 inserido com o id: 447
-Produto: ERVILHA KG gtin: 00000000000437 inserido com o id: 448
-Produto: ERVILHA TORTA KG gtin: 00000000000438 inserido com o id: 449
-Produto: ERVILHA TORTA GRAOS gtin: 00000000000439 inserido com o id: 450
-Produto: FAVA KG gtin: 00000000000440 inserido com o id: 451
-Produto: FEIJAO DE CORDA KG gtin: 00000000000441 inserido com o id: 452
-Produto: FEIJAO ROSADO KG gtin: 00000000000442 inserido com o id: 453
-Produto: GENGIBRE KG gtin: 00000000000443 inserido com o id: 454
-Produto: INHAME KG gtin: 00000000000444 inserido com o id: 455
-Produto: JILO CARIOCA KG gtin: 00000000000445 inserido com o id: 456
-Produto: JILO COMUM KG gtin: 00000000000446 inserido com o id: 457
-Produto: MANDIOCA DESCASCADA gtin: 00000000000447 inserido com o id: 458
-Produto: MANDIOCA KG gtin: 00000000000448 inserido com o id: 459
-Produto: MANDIOQUINHA DESCASC gtin: 00000000000449 inserido com o id: 460
-Produto: MANDIOQUINHA KG gtin: 00000000000450 inserido com o id: 461
-Produto: MAXIXE KG gtin: 00000000000451 inserido com o id: 462
-Produto: MILHO VERDE - KG gtin: 00000000000452 inserido com o id: 463
-Produto: NIGAGORE KG gtin: 00000000000453 inserido com o id: 464
-Produto: PEPINO CAIPIRA KG gtin: 00000000000454 inserido com o id: 465
-Produto: FEEL GOOD CH VERDE CRANBERRY 1L gtin: 07898192034834 inserido com o id: 466
-Produto: PEPINO COMUM KG gtin: 00000000000455 inserido com o id: 467
-Produto: PEPINO CONSERVA KG gtin: 00000000000456 inserido com o id: 468
-Produto: PEPINO JAPONES KG gtin: 00000000000457 inserido com o id: 469
-Produto: MIX DE PIMENTAO gtin: 00000000000458 inserido com o id: 470
-Produto: PIMENTA PROMO KG gtin: 00000000000459 inserido com o id: 471
-Produto: PIMENTAO AMARELO KG gtin: 00000000000460 inserido com o id: 472
-Produto: PIMENTAO ROXO KG gtin: 00000000000461 inserido com o id: 473
-Produto: PIMENTAO VERDE KG gtin: 00000000000462 inserido com o id: 474
-Produto: PIMENTAO VERMELHO KG gtin: 00000000000463 inserido com o id: 475
-Produto: QUIABO KG gtin: 00000000000464 inserido com o id: 476
-Produto: BDJ QUIABO PICADO KG gtin: 00000000000465 inserido com o id: 477
-Produto: TOMATE ANDREIA KG gtin: 00000000000466 inserido com o id: 478
-Produto: BDJ TOMATE CAQUI KG gtin: 00000000000467 inserido com o id: 479
-Produto: TOMATE CARMEM KG gtin: 00000000000468 inserido com o id: 480
-Produto: TOMATE DEBORA KG gtin: 00000000000469 inserido com o id: 481
-Produto: TOMATE ITALIANO KG gtin: 00000000000470 inserido com o id: 482
-Produto: TOMATE PIZZADORO KG gtin: 00000000000471 inserido com o id: 483
-Produto: TOMATE PROMO KG gtin: 00000000000472 inserido com o id: 484
-Produto: TOMATE RASTEIRO KG gtin: 00000000000473 inserido com o id: 485
-Produto: BDJ BETERRABA C/ CENOURA KG gtin: 00000000000474 inserido com o id: 486
-Produto: VAGEM KG gtin: 00000000000475 inserido com o id: 487
-Produto: VAGEM MACARRAO KG gtin: 00000000000476 inserido com o id: 488
-Produto: BDJ AB CABOTINKG gtin: 00000000000477 inserido com o id: 489
-Produto: BDJ AB CABOT CORTADA gtin: 00000000000478 inserido com o id: 490
-Produto: BDJ ABOBORA PESCOCO gtin: 00000000000479 inserido com o id: 491
-Produto: BDJ ALHO 140G gtin: 00000000000480 inserido com o id: 492
-Produto: BDJ BATATA YAKON KG gtin: 00000000000481 inserido com o id: 493
-Produto: BDJ BERINJELA JAP KG gtin: 00000000000482 inserido com o id: 494
-Produto: BDJ CENOURA KG gtin: 00000000000483 inserido com o id: 495
-Produto: BDJ CHUCHU UN gtin: 00000000000484 inserido com o id: 496
-Produto: FEEL GOOD CH BRANCO DE LICHIA 1L gtin: 07898192033325 inserido com o id: 497
-Produto: BDJ ERVILHA KG gtin: 00000000000485 inserido com o id: 498
-Produto: BDJ SOPA LEGUMES KG gtin: 00000000000486 inserido com o id: 499
-Produto: BDJ JILO PICADO KG gtin: 00000000000487 inserido com o id: 500
-Produto: BDJ MANDIOCA DUPLICADO 99 gtin: 00000000000488 inserido com o id: 501
-Produto: BDJ MANDIOQUINHA DESCASCADA KG gtin: 00000000000489 inserido com o id: 502
-Produto: BDJ MAXIXE KG gtin: 00000000000490 inserido com o id: 503
-Produto: BDJ MILHO gtin: 00000000000491 inserido com o id: 504
-Produto: BDJ SALADA FRUTA MISTA gtin: 00000000000492 inserido com o id: 505
-Produto: BDJ PEPINO CAIPIRA U gtin: 00000000000493 inserido com o id: 506
-Produto: BDJ PIMENTA AMERICAN gtin: 00000000000494 inserido com o id: 507
-Produto: BDJ PIMENTA BIQUINHO gtin: 00000000000495 inserido com o id: 508
-Produto: BDJ PIMENTA BODE gtin: 00000000000496 inserido com o id: 509
-Produto: BDJ PIMENTA CAMBUCI KG gtin: 00000000000497 inserido com o id: 510
-Produto: BDJ PIMENTA COMARI U gtin: 00000000000498 inserido com o id: 511
-Produto: CRYSTAL  COPO 310ML gtin: 07894900530049 inserido com o id: 512
-Produto: BDJ PIMENTA DE CHEIRO gtin: 00000000000499 inserido com o id: 513
-Produto: BDJ P.DEDO MOCA KG gtin: 00000000000500 inserido com o id: 514
-Produto: BDJ PIMENTA MEXICANA gtin: 00000000000501 inserido com o id: 515
-Produto: BDJ PIMENTA MALAGUETA CHOCOLATE UN gtin: 00000000000502 inserido com o id: 516
-Produto: BDJ PIMENTA MALAGUETA KG gtin: 00000000000503 inserido com o id: 517
-Produto: BDJ PIMENTAO FATIADO gtin: 00000000000504 inserido com o id: 518
-Produto: BDJ PIMENTA VERDE KG gtin: 00000000000505 inserido com o id: 519
-Produto: BDJ PIMENTAO VERDE FATIADO gtin: 00000000000506 inserido com o id: 520
-Produto: BDJ QUIABO DUPLICADO 99 gtin: 00000000000507 inserido com o id: 521
-Produto: BDJ TOMATE ANDREA gtin: 00000000000508 inserido com o id: 522
-Produto: CEREJA PCT 500G gtin: 00000000000509 inserido com o id: 523
-Produto: BDJ TOMATE SWEET 200G gtin: 00000000000510 inserido com o id: 524
-Produto: BDJ VAGEM KG gtin: 00000000000511 inserido com o id: 525
-Produto: BDJ SALADA TROPICAL UN gtin: 00000000000512 inserido com o id: 526
-Produto: BDJ KIT LEG BFPC UN 400G gtin: 00000000000513 inserido com o id: 527
-Produto: BDJ NAPOLITANO KG gtin: 00000000000514 inserido com o id: 528
-Produto: REFRESCO EM P SUFRESH 25G DUPLICADO 99 gtin: 07898192031284 inserido com o id: 529
-Produto: BDJ KIT LEG KG gtin: 00000000000515 inserido com o id: 530
-Produto: BDJ ABOBRINHA ESPAGUETE KG gtin: 00000000000516 inserido com o id: 531
-Produto: BDJ PIMENTAO MISTO KG gtin: 00000000000517 inserido com o id: 532
-Produto: BDJ PIMENTAO VER KG gtin: 00000000000518 inserido com o id: 533
-Produto: BDJ AB ITALIA FATIADA gtin: 00000000000519 inserido com o id: 534
-Produto: BDJ BERINJELA FATIAD gtin: 00000000000520 inserido com o id: 535
-Produto: BDJ SELETA LEGUMES gtin: 00000000000521 inserido com o id: 536
-Produto: BDJ ACELGA gtin: 00000000000522 inserido com o id: 537
-Produto: BDJ CHUCHU KG gtin: 00000000000523 inserido com o id: 538
-Produto: BDJ ABOB  ITALIA UN gtin: 00000000000524 inserido com o id: 539
-Produto: BDJ VAGEM PICADA KG gtin: 00000000000525 inserido com o id: 540
-Produto: BDJ  FRANGO XADREZ K gtin: 00000000000526 inserido com o id: 541
-Produto: BDJ BERINJ EM CUB KG gtin: 00000000000527 inserido com o id: 542
-Produto: BDJ CENOURA/ACELGA PICADAS UN gtin: 00000000000528 inserido com o id: 543
-Produto: BDJ CHUCHU PICADO KG gtin: 00000000000529 inserido com o id: 544
-Produto: BDJ MANDIOQUINHA COM CENOURA gtin: 00000000000530 inserido com o id: 545
-Produto: BDJ PIMENT+O MIST KG gtin: 00000000000531 inserido com o id: 546
-Produto: BDJ CHUCHU COM CENOURA KG gtin: 00000000000532 inserido com o id: 547
-Produto: BDJ SALADA CEASA KG gtin: 00000000000533 inserido com o id: 548
-Produto: LEITE DE COLONIA TEMPO DE AMAR 100 ML gtin: 00000000000534 inserido com o id: 549
-Produto: TUBES FIN HEL KIT 80 gtin: 00000000000535 inserido com o id: 550
-Produto: BALA FINI TUBES MIX gtin: 00000000000536 inserido com o id: 551
-Produto: BALA FINI TUBES MCA gtin: 00000000000537 inserido com o id: 552
-Produto: PALPA FRUTAP COCO 540G gtin: 00000000000538 inserido com o id: 553
-Produto: PT  SALSA PICADA 60G gtin: 00000000000539 inserido com o id: 554
-Produto: PT COENTRO PICADO  60GR gtin: 00000000000540 inserido com o id: 555
-Produto: PTE VINAGRETE UN gtin: 00000000000541 inserido com o id: 556
-Produto: BDJ MAIONESE KG gtin: 00000000000542 inserido com o id: 557
-Produto: FAR MAN NOBRE GR 1KG gtin: 00000000000543 inserido com o id: 558
-Produto: FAR MAN NOBRE FINA 1 gtin: 00000000000544 inserido com o id: 559
-Produto: REFRESCO EM P SUFRESH 25G DUPLICADO 99 gtin: 07898192031239 inserido com o id: 560
-Produto: AZEITONA VERDE C.R 100GRS DUPLICADO 99 gtin: 00000000000545 inserido com o id: 561
-Produto: LING CALABRESA C ALHO gtin: 00000000000546 inserido com o id: 562
-Produto: CADASTRE O PRODUTO DIRETAMENTE NO VAREJO DUPLICADO 99 gtin: 00000000000547 inserido com o id: 563
-Produto: CADASTRE O PRODUTO DIRETAMENTE NO VAREJO DUPLICADO 99 gtin: 00000000000548 inserido com o id: 564
-Produto: GOIABADA REI MAX 300 gtin: 00000000000549 inserido com o id: 565
-Produto: CADASTRE O PRODUTO NO VAREJOFACIL DUPLICADO 99 gtin: 00000000000550 inserido com o id: 566
-Produto: APRESUNTADO PEPERI KG gtin: 00000000000551 inserido com o id: 567
-Produto: PIMENTA VASO gtin: 00000000000552 inserido com o id: 568
-Produto: QUEIJO PADRO KG gtin: 00000000000553 inserido com o id: 569
-Produto: TORRADA TEPERADA gtin: 00000000000554 inserido com o id: 570
-Produto: ED INOVA BACK 1UN gtin: 00000000000555 inserido com o id: 571
-Produto: TAPIOCA KISABOR HIDR gtin: 00000000000556 inserido com o id: 572
-Produto: CER DAN MI MILTI CER gtin: 00000000000557 inserido com o id: 573
-Produto: CER DAN MI AMEIXA 18 gtin: 00000000000558 inserido com o id: 574
-Produto: AZEITON OUT PR 400G gtin: 00000000000559 inserido com o id: 575
-Produto: AZEITON OUT VER VD I gtin: 00000000000560 inserido com o id: 576
-Produto: COGUMELO OUT FA VD 1 gtin: 00000000000561 inserido com o id: 577
-Produto: AMAC DOWNY CONCP COL DUPLICADO 99 gtin: 00000000000562 inserido com o id: 578
-Produto: AZEITONA VERDE FATIADA KG gtin: 00000000000563 inserido com o id: 579
-Produto: AZEITONA VERDE KG gtin: 00000000000564 inserido com o id: 580
-Produto: KIT MAIONESE HELLMAN gtin: 00000000000565 inserido com o id: 581
-Produto: SUCO DEL V M UVA 200 gtin: 00000000000566 inserido com o id: 582
-Produto: SUCO DEL V M PES 200 gtin: 00000000000567 inserido com o id: 583
-Produto: SUCO DEL V M MAR 200 gtin: 00000000000568 inserido com o id: 584
-Produto: SH ELSEVE HYDRA - DETOX 200ML gtin: 00000000000569 inserido com o id: 585
-Produto: BDJ PAO CATAR FRO UN gtin: 00000000000570 inserido com o id: 586
-Produto: TORTA TROPICAL gtin: 00000000000571 inserido com o id: 587
-Produto: IOIO MIX CHOC NUT AV gtin: 00000000000572 inserido com o id: 588
-Produto: AMAC FOFO CON TR SC gtin: 00000000000573 inserido com o id: 589
-Produto: REFRESCO EM P SUFRESH 25G DUPLICADO 99 gtin: 07898192031277 inserido com o id: 590
-Produto: TORRADA gtin: 00000000000574 inserido com o id: 591
-Produto: GUARDAN MASCOT 30X32 gtin: 00000000000575 inserido com o id: 592
-Produto: PAPEL ALUMINIO ALFA DUPLICADO 99 gtin: 00000000000576 inserido com o id: 593
-Produto: PAPEL ALUMINIO ALFA gtin: 00000000000577 inserido com o id: 594
-Produto: PAPEL MANTEIPRATSY 3 gtin: 00000000000578 inserido com o id: 595
-Produto: SAB DOVE PISTACHE 90 gtin: 00000000000579 inserido com o id: 596
-Produto: SAB JOH AMENDOAS 90G gtin: 00000000000580 inserido com o id: 597
-Produto: ALHO PORO gtin: 00000000000581 inserido com o id: 598
-Produto: LING TOSC NOBRE gtin: 00000000000582 inserido com o id: 599
-Produto: ED INOVAULTRA WHITE gtin: 00000000000583 inserido com o id: 600
-Produto: GOIBINHA FAMOSA CR 3 gtin: 00000000000584 inserido com o id: 601
-Produto: BOLO CENOURA COM CHOCOLATE gtin: 00000000000585 inserido com o id: 602
-Produto: SANDALIA ESPLENDIDA gtin: 00000000000586 inserido com o id: 603
-Produto: APAR BARB BIC LEVE 7 gtin: 00000000000587 inserido com o id: 604
-Produto: CD SORRISO G XTRA MI gtin: 00000000000588 inserido com o id: 605
-Produto: ERVILHA SEARA CONG 3 gtin: 00000000000589 inserido com o id: 606
-Produto: LING PAIO AURORA KG gtin: 00000000000590 inserido com o id: 607
-Produto: BDJ GENGIBRE KG gtin: 00000000000591 inserido com o id: 608
-Produto: CHIPA TEMPERADA  HEXATHE 100 GRAMAS gtin: 00000000000592 inserido com o id: 609
-Produto: BDJ CENOURA PICADA KG gtin: 00000000000593 inserido com o id: 610
-Produto: BEB CHU PR CRIS BR 6 gtin: 00000000000594 inserido com o id: 611
-Produto: BEB CHU PR CRI BR 66 gtin: 00000000000595 inserido com o id: 612
-Produto: ESPUMANTE SAL OURO 7 gtin: 00000000000596 inserido com o id: 613
-Produto: ESPUMANTE SAL BRUT 7 gtin: 00000000000597 inserido com o id: 614
-Produto: ESPUMANTE SAL DEMI 7 gtin: 00000000000598 inserido com o id: 615
-Produto: CADASTRE O PRODUTO NO VAREJOFACIL. DUPLICADO 99 gtin: 00000000000599 inserido com o id: 616
-Produto: APRESUNTADO AURORA gtin: 00000000000600 inserido com o id: 617
-Produto: TREMOO A GR KG gtin: 00000000000601 inserido com o id: 618
-Produto: PONTA DE FRIOS KG gtin: 00000000000602 inserido com o id: 619
-Produto: REFRESCO EM P SUFRESH 25G DUPLICADO 99 gtin: 07898192033257 inserido com o id: 620
-Produto: BDJ REPOLHO PICADO KG gtin: 00000000000603 inserido com o id: 621
-Produto: BDJ ABOBRINHA PICADA KG gtin: 00000000000604 inserido com o id: 622
-Produto: MORTADELA NOBRE KG gtin: 00000000000605 inserido com o id: 623
-Produto: MORTADELA MARBA KG gtin: 00000000000606 inserido com o id: 624
-Produto: MORTADELA PERDIGAO DEFUMADA KG gtin: 00000000000607 inserido com o id: 625
-Produto: MUSSARELA COYOTE KG gtin: 00000000000608 inserido com o id: 626
-Produto: BDJ ABOBOBRINHA FATIADA gtin: 00000000000609 inserido com o id: 627
-Produto: PEITO DE PERU SADIA KG gtin: 00000000000610 inserido com o id: 628
-Produto: PACOTE PROMOCAO UN gtin: 00000000000611 inserido com o id: 629
-Produto: PEITO DE PERU DEF. SEARA KG gtin: 00000000000612 inserido com o id: 630
-Produto: BDJ ABOBORA CABOTIAN KG gtin: 00000000000613 inserido com o id: 631
-Produto: PRESUNTO AURORA  NOBRE KG gtin: 00000000000614 inserido com o id: 632
-Produto: PRESUNTO SADIA KG gtin: 00000000000615 inserido com o id: 633
-Produto: OVOS BRANCO UN gtin: 00000000000616 inserido com o id: 634
-Produto: QUEIJO PRATO DA VACA KG gtin: 00000000000617 inserido com o id: 635
-Produto: BALA QUEBRA QUEIXO MINI gtin: 00000000000618 inserido com o id: 636
-Produto: SALAME SADIA KG gtin: 00000000000619 inserido com o id: 637
-Produto: SALAME PERDIGAO KG gtin: 00000000000620 inserido com o id: 638
-Produto: PROVOLONE KG gtin: 00000000000621 inserido com o id: 639
-Produto: BDJ ABOBRINHA ITALIA KG gtin: 00000000000622 inserido com o id: 640
-Produto: MILHO VERDE UN gtin: 00000000000623 inserido com o id: 641
-Produto: SALAME NOBRE KG gtin: 00000000000624 inserido com o id: 642
-Produto: APRESUNTADO NOBRE KG gtin: 00000000000625 inserido com o id: 643
-Produto: MUSSARELA PEDACO KG gtin: 00000000000626 inserido com o id: 644
-Produto: STROGONOF CARNE KG gtin: 00000000000627 inserido com o id: 645
-Produto: BATAT PAL VIS T 80G gtin: 00000000000628 inserido com o id: 646
-Produto: CHOC GAR TAL AM/PA 1 gtin: 00000000000629 inserido com o id: 647
-Produto: ADOC ZERO CAL SUCRA gtin: 00000000000630 inserido com o id: 648
-Produto: MORTADELA RESENDE KG gtin: 00000000000631 inserido com o id: 649
-Produto: QUEIJO FRESCO ALMEIDA KG gtin: 00000000000632 inserido com o id: 650
-Produto: BATATA DOCE ROXA KG PROMOCAO gtin: 00000000000633 inserido com o id: 651
-Produto: QUEIJO FRESCO RICOTA KG DUPLICADO 99 gtin: 00000000000634 inserido com o id: 652
-Produto: QUEIJO FRESCO BEIRAO KG gtin: 00000000000635 inserido com o id: 653
-Produto: QUEIJO FRESCO RICOTA KG gtin: 00000000000636 inserido com o id: 654
-Produto: QUEIJO VILA NOVA KG gtin: 00000000000637 inserido com o id: 655
-Produto: PANQUECA RECHEADA DE FRANGO 550G gtin: 00000000000638 inserido com o id: 656
-Produto: PANQUECA RECHEADA DE PALMITO 550G gtin: 00000000000639 inserido com o id: 657
-Produto: PANQUECA RECHEADA DE CARNE 550G gtin: 00000000000640 inserido com o id: 658
-Produto: MASSAS FRESCA PARA PANQUECA 300G gtin: 00000000000641 inserido com o id: 659
-Produto: MASSAS FRESCA PARA PANQUECA TRADICIONAL  300G gtin: 00000000000642 inserido com o id: 660
-Produto: MANDIOCA PACOTE gtin: 00000000000643 inserido com o id: 661
-Produto: TEMP EMPORIO CASTANHA DO PARA130G gtin: 00000000000644 inserido com o id: 662
-Produto: ABACATE AVOCADO KG gtin: 00000000000645 inserido com o id: 663
-Produto: BOLO CHOCOLATE gtin: 00000000000646 inserido com o id: 664
-Produto: SACOLA BIODEGRADAVEL DUPLICADO 99 gtin: 00000000000647 inserido com o id: 665
-Produto: BOLO & CIA 400G gtin: 00000000000648 inserido com o id: 666
-Produto: DETERGENTE SUPR LIM gtin: 00000000000649 inserido com o id: 667
-Produto: DETERGENTE SUPR CLE gtin: 00000000000650 inserido com o id: 668
-Produto: GENGIBRE MACO gtin: 00000000000651 inserido com o id: 669
-Produto: CHIPPA TRADICIONAL gtin: 00000000000652 inserido com o id: 670
-Produto: PAO DE QUEIJO KG gtin: 00000000000653 inserido com o id: 671
+Produto: ACAI NO PALITO gtin: 151 inserido com o id: 1
+Produto: ACUCAR DEMERARA gtin: 326 inserido com o id: 2
+Produto: ACUCAR MASCAVO gtin: 110 inserido com o id: 3
+Produto: AGUA SEM GAS gtin: 7898386200083 inserido com o id: 4
+Produto: AGUARDENTE ALEMA EM GARRAFA gtin: 14990 inserido com o id: 5
+Produto: ALFINIM DO CEAR gtin: 7890483574043 inserido com o id: 6
+Produto: ALHO C/ PIMENTA gtin: 7898618748611 inserido com o id: 7
+Produto: ALHO PICADO gtin: 7896118718509 inserido com o id: 8
+Produto: ALHO SAND 100G gtin: 7896118718288 inserido com o id: 9
+Produto: ALHO SAND 200G gtin: 7896118718394 inserido com o id: 10
+Produto: AMANTEIGADO DE COCO MANU gtin: 751320952479 inserido com o id: 11
+Produto: AMANTEIGADO DE LEITE CONDENSADO TATA BISCOITOS gtin: 7893595129705 inserido com o id: 12
+Produto: AMANTEIGADO DE LIMAO MANU gtin: 619205397251 inserido com o id: 13
+Produto: AMANTEIGADO DE NATA MANU gtin: 751320952509 inserido com o id: 14
+Produto: AMBROSIA gtin: 7898158941114 inserido com o id: 15
+Produto: AMBROSIA DELICASSIS 400G gtin: 7898706370601 inserido com o id: 16
+Produto: AMEIXA SEM CAROO gtin: 119 inserido com o id: 17
+Produto: AMENDOIM CARAMELADO COM COCO gtin: 7890281038105 inserido com o id: 18
+Produto: AMENDOIM CARAMELADO COM GERGELIM gtin: 7890281038006 inserido com o id: 19
+Produto: AMENDOIM CAVALO gtin: 53 inserido com o id: 20
+Produto: AMENDOIM DOCE gtin: 338 inserido com o id: 21
+Produto: AMENDOIM OVINHO gtin: 339 inserido com o id: 22
+Produto: AMENDOIM PICANTE gtin: 340 inserido com o id: 23
+Produto: AMENDOIM SALSA E CEBOLA gtin: 342 inserido com o id: 24
+Produto: AMENDOIM TORRADO C/SAL gtin: 55 inserido com o id: 25
+Produto: AMENDOIM TORRADO COM CASCA gtin: 33 inserido com o id: 26
+Produto: AMENDOIM TORRADO S/ SAL gtin: 54 inserido com o id: 27
+Produto: AMENDOIM VERMELHO gtin: 52 inserido com o id: 28
+Produto: ANIS ESTRELADO gtin: 442 inserido com o id: 29
+Produto: ANTI GRIPAL XAROPE gtin: 89835 inserido com o id: 30
+Produto: ANTIGRIPAL FARAMEL gtin: 7896521462563 inserido com o id: 31
+Produto: AVEIA EM  FLOCOS gtin: 61 inserido com o id: 32
+Produto: AZEITE CAROLINA REAPER gtin: 7898618748635 inserido com o id: 33
+Produto: AZEITE DE DENDE gtin: 7898994479116 inserido com o id: 34
+Produto: AZEITE DE DENDE 500ML gtin: 7898994479123 inserido com o id: 35
+Produto: AZEITE DE DENDE 960ML gtin: 7898903301156 inserido com o id: 36
+Produto: AZEITE DE DENDE KIDENDE gtin: 7898903301255 inserido com o id: 37
+Produto: BACALHAU DA NORUEGA gtin: 820 inserido com o id: 38
+Produto: BACON SADIA gtin: 68 inserido com o id: 39
+Produto: BALA DE GOMA gtin: 139 inserido com o id: 40
+Produto: BANANADA DUPLICADO 99 gtin: 7898904642609 inserido com o id: 41
+Produto: BANANADA gtin: 7897977909954 inserido com o id: 42
+Produto: BANANADA  NATURAL YES gtin: 7898969909020 inserido com o id: 43
+Produto: BANANADA C/ UVAS PASSAS YES gtin: 7898969909082 inserido com o id: 44
+Produto: BANANADA C/AMEIXA YES gtin: 7898969909112 inserido com o id: 45
+Produto: BANANADA COM AMEIXA gtin: 7898904642616 inserido com o id: 46
+Produto: BANANADA COM CUPUAU gtin: 7898904642685 inserido com o id: 47
+Produto: BANANADA CREMOSA gtin: 7898963394013 inserido com o id: 48
+Produto: BANANADA CRISTALIZADAS gtin: 7898229190120 inserido com o id: 49
+Produto: BANANADA SEM ACUCAR ZELIA gtin: 751320023421 inserido com o id: 50
+Produto: BANANINHA TRADICIONAL OLIVEIRA gtin: 7896202892160 inserido com o id: 51
+Produto: BARBATIMAO EM CASCA gtin: 581 inserido com o id: 52
+Produto: BARRA DE FRUTA AMEIXA gtin: 7891331002886 inserido com o id: 53
+Produto: BEIJU TRADICIONAL DUPLICADO 99 gtin: 7895099216516 inserido com o id: 54
+Produto: BEIJU TRADICIONAL gtin: 7732594257951 inserido com o id: 55
+Produto: BELISCAO TATABISCOITOS gtin: 7893595129934 inserido com o id: 56
+Produto: BICARBONATO EM PO gtin: 108 inserido com o id: 57
+Produto: BIG LANCHE gtin: 7890483574081 inserido com o id: 58
+Produto: BISCOITO 7 CAPAS BOM CAFE SAL gtin: 7898671030036 inserido com o id: 59
+Produto: BISCOITO 7 CAPAS XIQUE XIQUE gtin: 736532118172 inserido com o id: 60
+Produto: BISCOITO AGUA E SAL 3 MAIO gtin: 7898008913209 inserido com o id: 61
+Produto: BISCOITO BOM CAFE gtin: 7898671030043 inserido com o id: 62
+Produto: BISCOITO BROA DE COCO SAO BENEDITO gtin: 7897053100268 inserido com o id: 63
+Produto: BISCOITO BROA DE MILHO SAO BENEDITO gtin: 7897053100084 inserido com o id: 64
+Produto: BISCOITO DE ARROZ INTEGRAL DELICASSIS gtin: 7896181712084 inserido com o id: 65
+Produto: BISCOITO DE ARROZ SABOR DE CHURRASCO gtin: 847 inserido com o id: 66
+Produto: BISCOITO DE ARROZ SABOR MOSTARDA C/MEL gtin: 848 inserido com o id: 67
+Produto: BISCOITO DE POLVILHO KILO gtin: 66 inserido com o id: 68
+Produto: BISCOITO DE POLVILHO PEQUENO gtin: 851 inserido com o id: 69
+Produto: BISCOITO DE POLVILHO SALGADO DELICASSIS gtin: 7898706370014 inserido com o id: 70
+Produto: BISCOITO DOCE 3DE MAIO gtin: 7898008913216 inserido com o id: 71
+Produto: BISCOITO DOCE COM GOIABADA gtin: 7898933117901 inserido com o id: 72
+Produto: BISCOITO FOLHADO DE CANELA gtin: 7898933117116 inserido com o id: 73
+Produto: BISCOITO FORTALEZA DOCE gtin: 7891152321296 inserido com o id: 74
+Produto: BISCOITO GOIABINHA gtin: 619205387344 inserido com o id: 75
+Produto: BISCOITO KIGOMA BROA DE MILHO gtin: 7898933117840 inserido com o id: 76
+Produto: BISCOITO MANU gtin: 751320952516 inserido com o id: 77
+Produto: BISCOITO MANU C/ AMENDOIM gtin: 609963022717 inserido com o id: 78
+Produto: BISCOITO MANU C/CHOCOLATE gtin: 751320952493 inserido com o id: 79
+Produto: BISCOITO MANU C/DOCE DE LEITE gtin: 040141284044 inserido com o id: 80
+Produto: BISCOITO MINAS SUL BEIJO MINEIRO gtin: 7895896470531 inserido com o id: 81
+Produto: BISCOITO OITO CAPAS KIGOMA gtin: 7898933117161 inserido com o id: 82
+Produto: BISCOITO PALITO MOREL 200G COM COCO gtin: 7896809257935 inserido com o id: 83
+Produto: BISCOITO PETYAN COCO gtin: 7896532700012 inserido com o id: 84
+Produto: BISCOITO POLVILHO gtin: 7898962702031 inserido com o id: 85
+Produto: BISCOITO SEQUILHOS COCO ADBEEL gtin: 7899085683511 inserido com o id: 86
+Produto: BISCOITO TATA gtin: 7893595455576 inserido com o id: 87
+Produto: BISCOITO TATA BELISCHAO gtin: 7893595129682 inserido com o id: 88
+Produto: BISCOITO TATA CASADINHO gtin: 7893595129606 inserido com o id: 89
+Produto: BISCOITO TATA FLORIZNHA gtin: 7893595129644 inserido com o id: 90
+Produto: BISCOITO TATA NATA MACIA gtin: 7893595129521 inserido com o id: 91
+Produto: BISCOITOS SABOR DE MINAS gtin: 7896011102726 inserido com o id: 92
+Produto: BOLACHA 7 CAPAS S. BENEDITO  200G gtin: 7897053100015 inserido com o id: 93
+Produto: BOLACHA 7 CAPAS S.BENEDITO  300G gtin: 7897053100077 inserido com o id: 94
+Produto: BOLACHA CAETES 7 CAPAS DOCE gtin: 7898937695092 inserido com o id: 95
+Produto: BOLACHA CAETES 7 CAPAS SALGADO gtin: 7898937695191 inserido com o id: 96
+Produto: BOLACHA COQUINHO gtin: 7896486202884 inserido com o id: 97
+Produto: BOLACHA COQUINHO DA TERRINHA 250G gtin: 7898960982268 inserido com o id: 98
+Produto: BOLACHA COQUINHO NORDESTE gtin: 618231589982 inserido com o id: 99
+Produto: BOLACHA CREAM CRACKER FORTALEZA gtin: 7891152801446 inserido com o id: 100
+Produto: BOLACHA DELICIA 250GR DA TERRINHA gtin: 7898960982299 inserido com o id: 101
+Produto: BOLACHA DO NORTE 7 CAPAS URUUQUENSE gtin: 7899688255450 inserido com o id: 102
+Produto: BOLACHA DO NORTE MANTEIGA DE GARRAFA gtin: 208614240847 inserido com o id: 103
+Produto: BOLACHA FLOR DO VALE gtin: 7896833800077 inserido com o id: 104
+Produto: BOLACHA FORTALEZA gtin: 7891152321302 inserido com o id: 105
+Produto: BOLACHA MATA FOME gtin: 208614249895 inserido com o id: 106
+Produto: BOLACHA MATA FOME MARILIMA gtin: 7898908635027 inserido com o id: 107
+Produto: BOLACHA MINAS SUL BAMBOLE RECHEADO gtin: 7895896470548 inserido com o id: 108
+Produto: BOLACHA MINAS SUL BANANINHA gtin: 7895896472092 inserido com o id: 109
+Produto: BOLACHA MINAS SUL CASADINHO DE GOIABADA gtin: 7895896470708 inserido com o id: 110
+Produto: BOLACHA MINAS SUL CUBINHO gtin: 7895896470722 inserido com o id: 111
+Produto: BOLACHA MINAS SUL FLOCOS gtin: 7895896470098 inserido com o id: 112
+Produto: BOLACHA MINAS SUL LEITE CONDENSADO gtin: 7895896470555 inserido com o id: 113
+Produto: BOLACHA MINAS SUL PALITO DE CHOCOLATE gtin: 7898241181069 inserido com o id: 114
+Produto: BOLACHA MINAS SUL PAO DE MEL gtin: 7898241181052 inserido com o id: 115
+Produto: BOLACHA MINAS SUL PRESTIGIO gtin: 7898241181120 inserido com o id: 116
+Produto: BOLACHA MOREL C/COCO 500G gtin: 7896809257072 inserido com o id: 117
+Produto: BOLACHA MOREL COM SAL 500G gtin: 7896809257065 inserido com o id: 118
+Produto: BOLACHAO DE COCO KIGOMA gtin: 7898933117796 inserido com o id: 119
+Produto: BOLACHAS DIVERSOS gtin: 65 inserido com o id: 120
+Produto: BOLACHINHA COM COCO MOREL gtin: 7896809256884 inserido com o id: 121
+Produto: BOLACHINHA FOLHADA CANELA COM AUCAR ADBEEL gtin: 7899085683597 inserido com o id: 122
+Produto: BOLACHINHA SAL ADBEEL C/COCO gtin: 7899085683542 inserido com o id: 123
+Produto: BOLACHINHA SAL ADBEEL C/SAL gtin: 7899085683535 inserido com o id: 124
+Produto: BOLO DE MANDIOCA gtin: 7898117492510 inserido com o id: 125
+Produto: BOLO DE MANDIOCA DELICIAS DO NORTE gtin: 138 inserido com o id: 126
+Produto: BOMBA TERE gtin: 539 inserido com o id: 127
+Produto: BROA DE FUBA NORDESTINO gtin: 7045106959008 inserido com o id: 128
+Produto: BROA DE MILHO KIGOMA gtin: 7898933117789 inserido com o id: 129
+Produto: BROA DE MILHO SORTIDA gtin: 7890483580136 inserido com o id: 130
+Produto: BROA DO NORTE PRETA gtin: 208614249888 inserido com o id: 131
+Produto: BROA DO NORTE SORTIDA gtin: 208614249833 inserido com o id: 132
+Produto: BROA PRETA DELICIA DO NORDESTE gtin: 7898994083368 inserido com o id: 133
+Produto: BRONQUICURA  250ML gtin: 13277 inserido com o id: 134
+Produto: BUCHA NATURAL gtin: 7898994181217 inserido com o id: 135
+Produto: CACAU EM P gtin: 320 inserido com o id: 136
+Produto: CAJUINA NORDESTINA gtin: 7897015100022 inserido com o id: 137
+Produto: CAMARAO SECO gtin: 37193 inserido com o id: 138
+Produto: CANELA DE VELHO CAPSULA gtin: 7895016349877 inserido com o id: 139
+Produto: CANELA EM PAU gtin: 95 inserido com o id: 140
+Produto: CANELA EM PO gtin: 96 inserido com o id: 141
+Produto: CANJICA AMARELA gtin: 13 inserido com o id: 142
+Produto: CANJICA BRANCA gtin: 12 inserido com o id: 143
+Produto: CARNE SECA 400G gtin: 7899567218118 inserido com o id: 144
+Produto: CARNE SECA FRIBOI gtin: 7898542029879 inserido com o id: 145
+Produto: CARNE SECA FRIBOI 500G gtin: 7898542029855 inserido com o id: 146
+Produto: CASCA JATOBA gtin: 102 inserido com o id: 147
+Produto: CASTANHA  DO PARA gtin: 87 inserido com o id: 148
+Produto: CASTANHA C/SAL gtin: 43 inserido com o id: 149
+Produto: CASTANHA CARAMELIZADA gtin: 44 inserido com o id: 150
+Produto: CASTANHA MIX gtin: 112 inserido com o id: 151
+Produto: CASTANHA S/SAL gtin: 42 inserido com o id: 152
+Produto: CATUABA EM PO gtin: 396 inserido com o id: 153
+Produto: CHA ALECRIM gtin: 83 inserido com o id: 154
+Produto: CHA ANTI ESTRESSE gtin: 7891011123405 inserido com o id: 155
+Produto: CHA ARNICA DO MATO gtin: 912 inserido com o id: 156
+Produto: CHA CAMOMILA gtin: 36 inserido com o id: 157
+Produto: CHA CANELA DE VELHO gtin: 7891011122316 inserido com o id: 158
+Produto: CHA CAPIM SANTO gtin: 37 inserido com o id: 159
+Produto: CHA CARQUEJA AMARGA gtin: 914 inserido com o id: 160
+Produto: CHA CAVALINHA gtin: 117 inserido com o id: 161
+Produto: CHA DA SAUDE DA MULHER gtin: 7891011121913 inserido com o id: 162
+Produto: CHA DA VIDA  EM GARRAFA gtin: 7898042159441 inserido com o id: 163
+Produto: CHA DE AMORA gtin: 398 inserido com o id: 164
+Produto: CHA DE BOLDO gtin: 709 inserido com o id: 165
+Produto: CHA DE MARACUJA gtin: 355 inserido com o id: 166
+Produto: CHA DE SUCUPIRA gtin: 7891011123962 inserido com o id: 167
+Produto: CHA DENTE DE LEAO gtin: 100 inserido com o id: 168
+Produto: CHA DESINCHA 500ML gtin: 7891011122811 inserido com o id: 169
+Produto: CHA DETOX gtin: 7891011121814 inserido com o id: 170
+Produto: CHA DIABETES gtin: 7891011122118 inserido com o id: 171
+Produto: CHA DISPOSIAO gtin: 7891011121517 inserido com o id: 172
+Produto: CHA DO CAROO DE AAI gtin: 7891011124006 inserido com o id: 173
+Produto: CHA EMAGRECIM gtin: 07898607020209 inserido com o id: 174
+Produto: CHA ERVA DOCE gtin: 35 inserido com o id: 175
+Produto: CHA ERVA MATE gtin: 913 inserido com o id: 176
+Produto: CHA ESPINHEIRA SANTA gtin: 84 inserido com o id: 177
+Produto: CHA EXTRATO DE NONI E UVA gtin: 7891234567895 inserido com o id: 178
+Produto: CHA GUACO gtin: 341 inserido com o id: 179
+Produto: CHA HIBISCO gtin: 34 inserido com o id: 180
+Produto: CHA HORTEL gtin: 38 inserido com o id: 181
+Produto: CHA MATE COM LIMAO gtin: 7891098041647 inserido com o id: 182
+Produto: CHA MISTO 37 ERVAS gtin: 7891011123412 inserido com o id: 183
+Produto: CHA MISTO ESPINHEIRA SANTA gtin: 7898994335689 inserido com o id: 184
+Produto: CHA MULUNGU gtin: 328 inserido com o id: 185
+Produto: CHA PAU TENENTE gtin: 329 inserido com o id: 186
+Produto: CHA PRESSAO ALTA gtin: 7891011123016 inserido com o id: 187
+Produto: CHA PRETO COM LIMAO gtin: 7891098041630 inserido com o id: 188
+Produto: CHA SENE gtin: 305 inserido com o id: 189
+Produto: CHA UNHA DE GATO gtin: 580 inserido com o id: 190
+Produto: CHA UXI AMARELO gtin: 582 inserido com o id: 191
+Produto: CHA UXI AMARELO E UNHA DE GATO gtin: 7891234567896 inserido com o id: 192
+Produto: CHA VERDE gtin: 99 inserido com o id: 193
+Produto: CHOCOLATE 50% gtin: 125 inserido com o id: 194
+Produto: COCADA CASEIRA NINO BRANCA gtin: 7893590329469 inserido com o id: 195
+Produto: COCADA CASEIRA NINO PRETA gtin: 7893590329476 inserido com o id: 196
+Produto: COCADA COM ABORBORA gtin: 7896310100157 inserido com o id: 197
+Produto: COCADA COM MARACUJ gtin: 7898158942418 inserido com o id: 198
+Produto: COCADA CREMOSA gtin: 7898158941091 inserido com o id: 199
+Produto: COCADA CREMOSA NICO gtin: 7898158942401 inserido com o id: 200
+Produto: COCADA ITAPIRA gtin: 7896310100096 inserido com o id: 201
+Produto: COCADA ITAPIRA COM CARAMELO gtin: 7896310100089 inserido com o id: 202
+Produto: COCADA ITAPIRA COM MARACUJA gtin: 7896310100386 inserido com o id: 203
+Produto: COCADA NATURAL gtin: 7896310100065 inserido com o id: 204
+Produto: COCADA RECHEADA DELICIA DO VALE gtin: 793573245403 inserido com o id: 205
+Produto: COCADA RECHEADINHA DO VALE gtin: 736532291677 inserido com o id: 206
+Produto: COCO COLA ZERO LATA gtin: 7894900700015 inserido com o id: 207
+Produto: COCO RALADO FINO gtin: 101 inserido com o id: 208
+Produto: COCO RALADO GROSSO gtin: 123 inserido com o id: 209
+Produto: COLAGENO EM PO gtin: 312 inserido com o id: 210
+Produto: COMPOSTO DE MEL,PROPOLIS E AGRIAO gtin: 7898906795068 inserido com o id: 211
+Produto: CONSERVA AZEITONA COM CAROO gtin: 296 inserido com o id: 212
+Produto: CONSERVA AZEITONA CORTADA gtin: 297 inserido com o id: 213
+Produto: CONSERVA AZEITONA SEM CAROO gtin: 295 inserido com o id: 214
+Produto: CONSERVA PIMENTA BIQUINHO gtin: 294 inserido com o id: 215
+Produto: COPAO ACAI 300ML gtin: 97 inserido com o id: 216
+Produto: COPAO ACAI CUPUACU 300ML gtin: 150 inserido com o id: 217
+Produto: COPAO MISTA FLOR DA NATA gtin: 88 inserido com o id: 218
+Produto: COPINHO ACAI 175ML gtin: 98 inserido com o id: 219
+Produto: COPINHO MISTA FLOR DA NATA gtin: 89 inserido com o id: 220
+Produto: COPO TERERE gtin: 18637 inserido com o id: 221
+Produto: COSTELA SALGADA gtin: 67 inserido com o id: 222
+Produto: CRAVO EM FLOR gtin: 94 inserido com o id: 223
+Produto: CREATINA EM PO gtin: 313 inserido com o id: 224
+Produto: CREME DE AROEIRA gtin: 63 inserido com o id: 225
+Produto: CREME DE PEQUI gtin: 7898618740400 inserido com o id: 226
+Produto: CREME DESODORANTE SEBO DE CARNEIRO gtin: 7898946332292 inserido com o id: 227
+Produto: CURA TUDO EM GARRAFA gtin: 60476 inserido com o id: 228
+Produto: DOCE CASEIRO DE JACA gtin: 7899518200018 inserido com o id: 229
+Produto: DOCE CASEIRO NORDESTE gtin: 14568879 inserido com o id: 230
+Produto: DOCE CRISTALIZADO GOIABA 350G gtin: 7899694880059 inserido com o id: 231
+Produto: DOCE DE ABOBORA COM COCO gtin: 7897977909916 inserido com o id: 232
+Produto: DOCE DE ABOBORA COM COCO DELICASSIS 270G gtin: 7898706370281 inserido com o id: 233
+Produto: DOCE DE BANANA gtin: 55993 inserido com o id: 234
+Produto: DOCE DE BANANA CREMOSO C/ CANELA ZELIA gtin: 7898966362477 inserido com o id: 235
+Produto: DOCE DE BANANA CREMOSO ZELIA gtin: 7898966362163 inserido com o id: 236
+Produto: DOCE DE BANANA/ GOIABADA gtin: 22404 inserido com o id: 237
+Produto: DOCE DE BATATA DE UMBU gtin: 82228 inserido com o id: 238
+Produto: DOCE DE BURITI gtin: 618341646926 inserido com o id: 239
+Produto: DOCE DE CAJU gtin: 60465 inserido com o id: 240
+Produto: DOCE DE CAJU CRISTALIZADO gtin: 7898657982410 inserido com o id: 241
+Produto: DOCE DE JACA gtin: 85896 inserido com o id: 242
+Produto: DOCE DE JACA CRISTALIZADA gtin: 7898657985121 inserido com o id: 243
+Produto: DOCE DE JACA JL gtin: 7898 inserido com o id: 244
+Produto: DOCE DE LEITE AMBROSIA DUAS IRMAS gtin: 7898137020885 inserido com o id: 245
+Produto: DOCE DE LEITE AVIAO gtin: 7896331100372 inserido com o id: 246
+Produto: DOCE DE LEITE C/CHOCOLATE UAI 200G gtin: 7898279300197 inserido com o id: 247
+Produto: DOCE DE LEITE COM ABACAXI gtin: 7898137020236 inserido com o id: 248
+Produto: DOCE DE LEITE COM AMEIXA SERRA SUL gtin: 7898158944757 inserido com o id: 249
+Produto: DOCE DE LEITE COM AMEIXA UAI gtin: 7898279300036 inserido com o id: 250
+Produto: DOCE DE LEITE COM AMENDOIM UAI gtin: 7898279300166 inserido com o id: 251
+Produto: DOCE DE LEITE COM CHOCOLATE gtin: 7898158941053 inserido com o id: 252
+Produto: DOCE DE LEITE COM CHOCOLATE UAI gtin: 7898279300043 inserido com o id: 253
+Produto: DOCE DE LEITE COM COCO gtin: 7898137020519 inserido com o id: 254
+Produto: DOCE DE LEITE COM COCO DELICASSIS 400G gtin: 7898706370595 inserido com o id: 255
+Produto: DOCE DE LEITE COM COCO SERRA SUL gtin: 7898158944719 inserido com o id: 256
+Produto: DOCE DE LEITE COM COCO UAI gtin: 7898279300029 inserido com o id: 257
+Produto: DOCE DE LEITE COM GOIABADA gtin: 7898279300050 inserido com o id: 258
+Produto: DOCE DE LEITE COM MARACUJA gtin: 7898137020335 inserido com o id: 259
+Produto: DOCE DE LEITE COM MORANGO UAI gtin: 7898279300173 inserido com o id: 260
+Produto: DOCE DE LEITE DELICASSIS 400G gtin: 7898706370588 inserido com o id: 261
+Produto: DOCE DE LEITE SERRA SUL gtin: 7898158944702 inserido com o id: 262
+Produto: DOCE DE LEITE TRADICIONAL 2 IRMAS gtin: 7898137020502 inserido com o id: 263
+Produto: DOCE DE LEITE UAI gtin: 7898279300012 inserido com o id: 264
+Produto: DOCE DE LEITE UAI 200G gtin: 7898279300104 inserido com o id: 265
+Produto: DOCE DE LEITE UAI COM AMEIXA 200G gtin: 7898279300142 inserido com o id: 266
+Produto: DOCE DE LEITE UAI COM COCO 200G gtin: 7898279300111 inserido com o id: 267
+Produto: DOCE KAROLINA150G gtin: 7898141886064 inserido com o id: 268
+Produto: DOCE MILHO gtin: 7898137020342 inserido com o id: 269
+Produto: DOCE PE DE MOA CORTADINHO NICO gtin: 7898158943347 inserido com o id: 270
+Produto: DOLOMITA gtin: 322 inserido com o id: 271
+Produto: ENERGETICO gtin: 7891011123429 inserido com o id: 272
+Produto: ESKIMO FLOR DA NATA gtin: 91 inserido com o id: 273
+Produto: ESPINHEIRA SANTA C/120 gtin: 7799011176776 inserido com o id: 274
+Produto: ESPINHEIRA SANTA CAPSULA gtin: 7895252246145 inserido com o id: 275
+Produto: ESPINHEIRA SANTA EM GARRAFA gtin: 18111 inserido com o id: 276
+Produto: ESPONJA DE BANHO GRANDE gtin: 7898994181224 inserido com o id: 277
+Produto: ESTILINGUE gtin: 45 inserido com o id: 278
+Produto: EXTRATO DE BUCHINHA gtin: 7897795558624 inserido com o id: 279
+Produto: EXTRATO DE PROPOLIS gtin: 486 inserido com o id: 280
+Produto: FANTA GUARANA LATINHA gtin: 7894900093001 inserido com o id: 281
+Produto: FANTA LARANJA LATINHA gtin: 7894900030013 inserido com o id: 282
+Produto: FANTA UVA LATINHA gtin: 7894900050011 inserido com o id: 283
+Produto: FARELO DE AVEIA gtin: 140 inserido com o id: 284
+Produto: FARINHA D AGUA AMARELA gtin: 51 inserido com o id: 285
+Produto: FARINHA DE AMENDOIM gtin: 124 inserido com o id: 286
+Produto: FARINHA DE ARROZ gtin: 321 inserido com o id: 287
+Produto: FARINHA DE AVEIA gtin: 60 inserido com o id: 288
+Produto: FARINHA DE BANANA gtin: 129 inserido com o id: 289
+Produto: FARINHA DE BERINJELA gtin: 343 inserido com o id: 290
+Produto: FARINHA DE BETERRABA gtin: 116 inserido com o id: 291
+Produto: FARINHA DE ROSCA gtin: 300 inserido com o id: 292
+Produto: FARINHA DE UVA gtin: 323 inserido com o id: 293
+Produto: FARINHA FINA gtin: 02 inserido com o id: 294
+Produto: FARINHA GROSSA gtin: 01 inserido com o id: 295
+Produto: FARINHA LINHAA DOURADA gtin: 118 inserido com o id: 296
+Produto: FARINHA LINHAA MARROM gtin: 127 inserido com o id: 297
+Produto: FARINHA MILHO AMARELA gtin: 11 inserido com o id: 298
+Produto: FARINHA QUEBRADINHA gtin: 81 inserido com o id: 299
+Produto: FAROFA APIMENTADA 400G DA TERRINHA gtin: 7898960982183 inserido com o id: 300
+Produto: FAROFA GOUMERT BACON gtin: 7896118711081 inserido com o id: 301
+Produto: FAROFA GOUMERT COSTELINHA C/LIMAO gtin: 7896118711104 inserido com o id: 302
+Produto: FAROFA GOURMET CHIMICHURRI gtin: 7896118711098 inserido com o id: 303
+Produto: FAROFA GOURMET PICANTE gtin: 7896118711074 inserido com o id: 304
+Produto: FAROFA GOURMET TRADICIONAL gtin: 7896118711067 inserido com o id: 305
+Produto: FAROFA TRADICIONAL 24/400G DA TERRINHA gtin: 7898960982213 inserido com o id: 306
+Produto: FAVA BRANCA gtin: 82 inserido com o id: 307
+Produto: FAVA MANTEIGA gtin: 126 inserido com o id: 308
+Produto: FAVA RAJADA VERMELHA gtin: 50 inserido com o id: 309
+Produto: FEIJAO ANDU gtin: 114 inserido com o id: 310
+Produto: FEIJO BRANCO gtin: 05 inserido com o id: 311
+Produto: FEIJO CORDA gtin: 03 inserido com o id: 312
+Produto: FEIJO FRADINHO gtin: 04 inserido com o id: 313
+Produto: FEIJAO MULATINHO gtin: 495 inserido com o id: 314
+Produto: FEIJO PRETO gtin: 09 inserido com o id: 315
+Produto: FIBRA DE MACA gtin: 911 inserido com o id: 316
+Produto: FLOCO DE ARROZ NUTRITIVA gtin: 7896184800177 inserido com o id: 317
+Produto: FLOCO DE MILHO CORINGA gtin: 7896481130137 inserido com o id: 318
+Produto: FLOCAO DE MILHO NUTITIVA gtin: 7896184800504 inserido com o id: 319
+Produto: FOLHA DE LOURO gtin: 111 inserido com o id: 320
+Produto: FONDANT DE LEITE gtin: 7896832904028 inserido com o id: 321
+Produto: FONDANT DE LEITE C/COCO CORTADINHO gtin: 7898158940049 inserido com o id: 322
+Produto: FONDANT DE LEITE COM AMEIXA gtin: 7898158941015 inserido com o id: 323
+Produto: FONDANT DE LEITE COM CHOCOLATE DUPLICADO 99 gtin: 7898954718408 inserido com o id: 324
+Produto: FONDANT DE LEITE COM CHOCOLATE gtin: 7896832904011 inserido com o id: 325
+Produto: FONDANT DE LEITE COM GOIABADA DUPLICADO 99 gtin: 7898954718415 inserido com o id: 326
+Produto: FONDANT DE LEITE COM GOIABADA gtin: 7898158941060 inserido com o id: 327
+Produto: FONDANT DE LEITE COM MARACUJ gtin: 7898158943262 inserido com o id: 328
+Produto: FONDANT DE LEITE EM TABLETE gtin: 7898954718255 inserido com o id: 329
+Produto: FONDANT DE LEITE EM TABLETE COM COCO gtin: 7898954718248 inserido com o id: 330
+Produto: FONDANT DE LEITE PURO gtin: 7898158941022 inserido com o id: 331
+Produto: FONDANT DE LEITE PURO CORTADINHO gtin: 7898158940018 inserido com o id: 332
+Produto: FORTIFICANTE EM GARRAFA gtin: 7897795882651 inserido com o id: 333
+Produto: FUMO JURITI gtin: 7897414100197 inserido com o id: 334
+Produto: FUMO SABIA 22G gtin: 7897436300032 inserido com o id: 335
+Produto: GEL MASSAGEADOR SEBO DE CARNEIRO gtin: 7908512700575 inserido com o id: 336
+Produto: GELEIA DE FIGO gtin: 7898137020878 inserido com o id: 337
+Produto: GELIA DE GOIABA gtin: 7898158943682 inserido com o id: 338
+Produto: GELIA DE MOCOT  PODEROSA gtin: 7898916542041 inserido com o id: 339
+Produto: GELEIA DE MOCOTO COM AMENDOIM gtin: 7898916542058 inserido com o id: 340
+Produto: GELEIA DE MORANGO gtin: 7898158943170 inserido com o id: 341
+Produto: GENGIBRE EM PO gtin: 301 inserido com o id: 342
+Produto: GERGELIM BRANCO gtin: 302 inserido com o id: 343
+Produto: GERGELIM PRETO gtin: 401 inserido com o id: 344
+Produto: GINKGO BILOBA EM GARRAFA gtin: 9781592170531 inserido com o id: 345
+Produto: GOABADA CASCO 500G gtin: 7898158940339 inserido com o id: 346
+Produto: GOIABADA 300G gtin: 7897977903716 inserido com o id: 347
+Produto: GOIABADA ANHANBI gtin: 7896113200214 inserido com o id: 348
+Produto: GOIABADA CASCAO gtin: 7897977909930 inserido com o id: 349
+Produto: GOIABADA CASCAO LIGHT 250G gtin: 7898267580242 inserido com o id: 350
+Produto: GOIABADA CASCAO MINEIRAO gtin: 7897456601249 inserido com o id: 351
+Produto: GOIABADA CREMOSA ZELIA gtin: 7898966362149 inserido com o id: 352
+Produto: GOIABADA EM BARRA gtin: 728 inserido com o id: 353
+Produto: GOIABADA SABIA 250G gtin: 1148311041912 inserido com o id: 354
+Produto: GOIBADA CASCAO 500G ZELIA gtin: 7898966362408 inserido com o id: 355
+Produto: GOMA gtin: 07 inserido com o id: 356
+Produto: GOMA HIDRATADA gtin: 360 inserido com o id: 357
+Produto: GOTAS ACAO DETOX LIMPA TUDO gtin: 12690 inserido com o id: 358
+Produto: GOTAS CAVALINHA gtin: 93648 inserido com o id: 359
+Produto: GOTAS CHA DIABETES gtin: 26629 inserido com o id: 360
+Produto: GOTAS DE AGUARDENTE ALEMA gtin: 94215 inserido com o id: 361
+Produto: GOTAS DE DESINCHA gtin: 97366 inserido com o id: 362
+Produto: GOTAS DE MELAO SAO CAETANO gtin: 53010 inserido com o id: 363
+Produto: GOTAS DE SUCUPIRA gtin: 76354 inserido com o id: 364
+Produto: GOTAS UNHA DE GATO COM UXI AMARELO gtin: 30064 inserido com o id: 365
+Produto: GRANOLA COMPLETA gtin: 93 inserido com o id: 366
+Produto: GRAO DE BICO gtin: 57 inserido com o id: 367
+Produto: GUARANA EM PO gtin: 128 inserido com o id: 368
+Produto: GUARANA JESUS gtin: 7894900941159 inserido com o id: 369
+Produto: GUARANA JESUS 1LT gtin: 7894900941715 inserido com o id: 370
+Produto: GUARANA JESUS 2 LT gtin: 7894900941517 inserido com o id: 371
+Produto: JAB gtin: 40 inserido com o id: 372
+Produto: JERKED SUINO SEARA gtin: 7894904272396 inserido com o id: 373
+Produto: KIT FEIJOADA gtin: 79 inserido com o id: 374
+Produto: KIT SABONETE E CREME gtin: 4526 inserido com o id: 375
+Produto: LAMBEDOR  CURA TOSSE gtin: 7891577860028 inserido com o id: 376
+Produto: LANCE BRASIL 800G gtin: 7897754708329 inserido com o id: 377
+Produto: LANCHE BRASIL 160G gtin: 7897754708268 inserido com o id: 378
+Produto: LANCHINHO GOIABADA gtin: 7899694880028 inserido com o id: 379
+Produto: LANCHINHO GOIABADA 150G gtin: 7899694880011 inserido com o id: 380
+Produto: LEITE CONDENSADO SEMIDESNATADO ITALAC gtin: 7898080640413 inserido com o id: 381
+Produto: LEITE DE COCO 200ML gtin: 7898903301019 inserido com o id: 382
+Produto: LEITE DE COCO 500ML gtin: 7898903301026 inserido com o id: 383
+Produto: LEITE DE COCO DUBOM 1LT gtin: 7898903301989 inserido com o id: 384
+Produto: LEITE DE SOJA gtin: 316 inserido com o id: 385
+Produto: LENTILHA gtin: 315 inserido com o id: 386
+Produto: LEVANTA O VELHO EM GARRAFADA gtin: 13965 inserido com o id: 387
+Produto: LINGUIA ARGOLAO gtin: 350 inserido com o id: 388
+Produto: LINGUIA CALABRESA AURORA/ SADIA gtin: 71 inserido com o id: 389
+Produto: LINHAA DOURADA gtin: 122 inserido com o id: 390
+Produto: LINHAA MARROM gtin: 59 inserido com o id: 391
+Produto: LOMBO gtin: 72 inserido com o id: 392
+Produto: MACA PERUANA EM PO gtin: 298 inserido com o id: 393
+Produto: MACA PERUANA PRETA gtin: 281 inserido com o id: 394
+Produto: MAMAO RALADO COM COCO gtin: 7898158943149 inserido com o id: 395
+Produto: MANJUBA gtin: 76 inserido com o id: 396
+Produto: MANTEIGA DE GARRAFA 200G gtin: 7899694872320 inserido com o id: 397
+Produto: MANTEIGA DE GARRAFA 500G gtin: 7899694872313 inserido com o id: 398
+Produto: MANTEIGA DE POTE gtin: 422 inserido com o id: 399
+Produto: MARGARINA QUALY CREMOSA COM SAL gtin: 7893000394117 inserido com o id: 400
+Produto: MARIOLA  GOIABA gtin: 7899694880035 inserido com o id: 401
+Produto: MARIOLA BANANA SABIA gtin: 7890483574494 inserido com o id: 402
+Produto: MARIOLA BRASIL gtin: 7897754708183 inserido com o id: 403
+Produto: MARIOLA DE BANANA gtin: 7898007435801 inserido com o id: 404
+Produto: MARIOLA DE CAJU gtin: 7898007432688 inserido com o id: 405
+Produto: MARROM GLACE gtin: 7897977909947 inserido com o id: 406
+Produto: MASSA DE MANDIOCA PUBA VITORIA gtin: 7898961120010 inserido com o id: 407
+Produto: MASTRUZ EM GARRAFA gtin: 7898736153625 inserido com o id: 408
+Produto: MATA FOME 200G gtin: 7898095630089 inserido com o id: 409
+Produto: MEL ABELINHA 1200GR gtin: 12345 inserido com o id: 410
+Produto: MEL FLOR DE MINAS 1LT gtin: 7253739253961 inserido com o id: 411
+Produto: MEL FLOR DE MINAS 300G gtin: 1234567890128 inserido com o id: 412
+Produto: MEL FLOR DE MINAS 330G VIDRO gtin: 7534193699237 inserido com o id: 413
+Produto: MEL FLOR DE MINAS 500G gtin: 7648448429521 inserido com o id: 414
+Produto: MEL FLOR DE MINAS 750G gtin: 9771414363104 inserido com o id: 415
+Produto: MEL JATAI gtin: 7896994520159 inserido com o id: 416
+Produto: MELADO DE CANA gtin: 7898929994226 inserido com o id: 417
+Produto: MELADO DE CANA DE ACUCAR DELICASSIS 250G gtin: 7896181700791 inserido com o id: 418
+Produto: MILHO DE PIPOCA gtin: 56 inserido com o id: 419
+Produto: MINI MARIA 3 DE MAIO gtin: 7898008913124 inserido com o id: 420
+Produto: MINI RAPADURA COM COCO gtin: 7890483574708 inserido com o id: 421
+Produto: MINI RAPADURA MINEIRA JR 160G gtin: 421 inserido com o id: 422
+Produto: MINI RAPADURA TRADICIONAL gtin: 7897589652224 inserido com o id: 423
+Produto: MOLHO DE ALHO gtin: 7896118718585 inserido com o id: 424
+Produto: MOLHO DE CHURRASCO gtin: 7896118718578 inserido com o id: 425
+Produto: MOLHO DE PIMENTA CAROLINA gtin: 7892220003304 inserido com o id: 426
+Produto: MOLHO DE PIMENTA CAROLINA REAPER gtin: 7898562840232 inserido com o id: 427
+Produto: MOLHO DE PIMENTA CREMOSO gtin: 7896118718684 inserido com o id: 428
+Produto: MOLHO DE PIMENTA GOTA PICANTE gtin: 7898286190316 inserido com o id: 429
+Produto: MOLHO DE PIMENTA SCORPION gtin: 7892220003243 inserido com o id: 430
+Produto: MOLHO DE PIMENTA VERMELHA gtin: 7896118718592 inserido com o id: 431
+Produto: MOLHO FAISCA EXTRA FORTE 150ML gtin: 7897873011881 inserido com o id: 432
+Produto: MOLHO GOTA INGLES 150ML MARATA gtin: 7898286190323 inserido com o id: 433
+Produto: MOLHO GOTA PIMENTA VERDE 150ML MARATA gtin: 7898286191320 inserido com o id: 434
+Produto: MOLHO GOTA SHOYU 150ML MARATA gtin: 7898286190354 inserido com o id: 435
+Produto: NUTRIVIDA gtin: 7896184800184 inserido com o id: 436
+Produto: OLEO  DE ABACATE gtin: 7892312201632 inserido com o id: 437
+Produto: OLEO DE ALECRIM gtin: 7898963679059 inserido com o id: 438
+Produto: OLEO DE COCO EXTRA VIRGEM 200ML gtin: 7898596080604 inserido com o id: 439
+Produto: OLEO DE COCO SEM SABOR gtin: 7898596081960 inserido com o id: 440
+Produto: OLEO DE COCO VIRGEM gtin: 7896181710530 inserido com o id: 441
+Produto: OLEO DE MENTA NATURAL gtin: 7898936049001 inserido com o id: 442
+Produto: OLEO DE PEQUI gtin: 7896695309060 inserido com o id: 443
+Produto: OLEO DE SUCUPIRA gtin: 7898413550158 inserido com o id: 444
+Produto: ORA PRO NOBIS CAPSULA 120 gtin: 7895204789102 inserido com o id: 445
+Produto: ORA PRO NOBIS EM GARRAFA gtin: 7898042159458 inserido com o id: 446
+Produto: ORA PRO NOBIS EM PO gtin: 7899468510885 inserido com o id: 447
+Produto: ORELHA SALGADO gtin: 70 inserido com o id: 448
+Produto: PAOCA DONA MARTHA gtin: 7893595719975 inserido com o id: 449
+Produto: PAOCO 90 G gtin: 7899995221124 inserido com o id: 450
+Produto: PALHAS BELLER gtin: 41479 inserido com o id: 451
+Produto: PAPEL SEDA gtin: 67822 inserido com o id: 452
+Produto: PASTA DE AMENDOIM JR gtin: 7898029210660 inserido com o id: 453
+Produto: PATE DE PIMENTA ESPANTA VISITA gtin: 7898618742947 inserido com o id: 454
+Produto: PATE DE PIMENTA MATA A SOGRA gtin: 7898618741186 inserido com o id: 455
+Produto: PE SALGADO gtin: 74 inserido com o id: 456
+Produto: PELLET SABOR BACON DELICASSIS 70G gtin: 7898706370038 inserido com o id: 457
+Produto: PENEIRA ARAME 30 CM gtin: 7897477700235 inserido com o id: 458
+Produto: PEPITA DE GIRASSOL gtin: 132 inserido com o id: 459
+Produto: PEQUI EM CAROO gtin: 7892220001249 inserido com o id: 460
+Produto: PEQUI FATIADO gtin: 7892220001928 inserido com o id: 461
+Produto: PICOLE FLOR DA NATA gtin: 92 inserido com o id: 462
+Produto: PIMENTA +FORTEDO MUNDO MOLHO 150ML gtin: 739844721269 inserido com o id: 463
+Produto: PIMENTA ATOMIC FORTE DO MUNDO gtin: 739844721061 inserido com o id: 464
+Produto: PIMENTA BICO DEFUMADA gtin: 7898618747607 inserido com o id: 465
+Produto: PIMENTA BICO DOCE SAND gtin: 7896118718851 inserido com o id: 466
+Produto: PIMENTA BIQUINHHO 310G gtin: 7892220000112 inserido com o id: 467
+Produto: PIMENTA BIQUINHO AROMA MINAS gtin: 7898618740189 inserido com o id: 468
+Produto: PIMENTA BIQUINHO NO POTE gtin: 14220 inserido com o id: 469
+Produto: PIMENTA CAIENE gtin: 7898618742664 inserido com o id: 470
+Produto: PIMENTA CUMARI  NATIVA 12564 gtin: 12564 inserido com o id: 471
+Produto: PIMENTA CUMARI DO PARA gtin: 7898618740851 inserido com o id: 472
+Produto: PIMENTA CUMARI VERDE 1050G gtin: 7892220000914 inserido com o id: 473
+Produto: PIMENTA CUMARI VERDE 190G gtin: 7898639160973 inserido com o id: 474
+Produto: PIMENTA CUMARI VERDE 200G gtin: 7898378200244 inserido com o id: 475
+Produto: PIMENTA CUMARI VERMELHA gtin: 7898618742237 inserido com o id: 476
+Produto: PIMENTA DEDO DE MOA gtin: 7898618745030 inserido com o id: 477
+Produto: PIMENTA DEDO MOA gtin: 7898618740899 inserido com o id: 478
+Produto: PIMENTA MALAGUENTA 900G gtin: 7898946531695 inserido com o id: 479
+Produto: PIMENTA MALAGUETA 130G gtin: 7892220000648 inserido com o id: 480
+Produto: PIMENTA MALAGUETA DELICASSIS 300G gtin: 7898706370359 inserido com o id: 481
+Produto: PIMENTA MALAGUETA VERDE DUPLICADO 99 gtin: 7898618741162 inserido com o id: 482
+Produto: PIMENTA MALAGUETA VERDE gtin: 7898618740684 inserido com o id: 483
+Produto: PIMENTA MALAGUETA VERM. gtin: 7898618740509 inserido com o id: 484
+Produto: PIMENTA MALAGUETA VERM.  300G gtin: 7898618740202 inserido com o id: 485
+Produto: PIMENTA MALAGUETA VERMELHA gtin: 7896118718493 inserido com o id: 486
+Produto: PIMENTA MISTA gtin: 7898618740295 inserido com o id: 487
+Produto: PIMENTA MISTA 1050G gtin: 9900000000196 inserido com o id: 488
+Produto: PIMENTA MISTA 500G gtin: 7898618741001 inserido com o id: 489
+Produto: PIMENTA MISTA DELICASSIS 300G gtin: 7898706370373 inserido com o id: 490
+Produto: PIMENTA MISTA SABOROSA NATIVA gtin: 7892220000808 inserido com o id: 491
+Produto: PIMENTA SABOROSA gtin: 7898618747485 inserido com o id: 492
+Produto: PINGO DE DOCE DE LEITE gtin: 7898099062558 inserido com o id: 493
+Produto: PIPOCA CARAMELIZADA 100G DELICASSIS gtin: 7898706370649 inserido com o id: 494
+Produto: PIPOCA GRAVATA NORDESTE 14G gtin: 7898002910075 inserido com o id: 495
+Produto: PIPOCA GRAVATA NORDESTE 40G gtin: 7898002910143 inserido com o id: 496
+Produto: PITANGA TATA BISCOITOS gtin: 7893595129781 inserido com o id: 497
+Produto: POLVILHO AZEDO gtin: 08 inserido com o id: 498
+Produto: POLVILHO DOCE gtin: 06 inserido com o id: 499
+Produto: POMADA CANELA DE VELHO gtin: 7908512700742 inserido com o id: 500
+Produto: POMADA CANELA VELHO PREMIUM gtin: 7898741951407 inserido com o id: 501
+Produto: POMADA CARTILAGEM DE TUBARO gtin: 7908512700667 inserido com o id: 502
+Produto: POMADA CURADOR gtin: 11827 inserido com o id: 503
+Produto: POMADA FISIOFORT gtin: 7908512700841 inserido com o id: 504
+Produto: POMADA FISIOFORT GOLD gtin: 7908512704382 inserido com o id: 505
+Produto: POMADA FISIOFORT PREMIUM gtin: 7908512700810 inserido com o id: 506
+Produto: POMADA MEGAGEOL gtin: 7898920429321 inserido com o id: 507
+Produto: POMADA PRETA APNIL gtin: 507 inserido com o id: 508
+Produto: POMODA FISIO FORT gtin: 7908512700568 inserido com o id: 509
+Produto: PRESTIGIO gtin: 7898158948762 inserido com o id: 510
+Produto: PROSTATIL gtin: 7898607020391 inserido com o id: 511
+Produto: PROTEINA DE SOJA gtin: 310 inserido com o id: 512
+Produto: PSYLLIUM gtin: 19801 inserido com o id: 513
+Produto: PURURUCA gtin: 327 inserido com o id: 514
+Produto: QUEBRA QUEIXO 200G gtin: 59281 inserido com o id: 515
+Produto: QUEBRA QUEIXO DOCE gtin: 602883575219 inserido com o id: 516
+Produto: QUEIJO COALHO BARRA BOM DA FAZENDA gtin: 133 inserido com o id: 517
+Produto: QUEIJO FRESCAL GRANDE RIGONI/ MINAS gtin: 47 inserido com o id: 518
+Produto: QUEIJO MINAS FRESCAL BABY 300G CORONATA gtin: 7896728958715 inserido com o id: 519
+Produto: QUIRELA gtin: 39 inserido com o id: 520
+Produto: RABO gtin: 78 inserido com o id: 521
+Produto: RAPADURA BATIDA gtin: 609963360086 inserido com o id: 522
+Produto: RAPADURA BATIDA CEARA gtin: 7890483574463 inserido com o id: 523
+Produto: RAPADURA BATIDA DO CEARA gtin: 7890483574036 inserido com o id: 524
+Produto: RAPADURA BATIDA NA PALHA gtin: 7897075186271 inserido com o id: 525
+Produto: RAPADURA BATIDA QUADRADA gtin: 609963360253 inserido com o id: 526
+Produto: RAPADURA BATIDA SERRA DO VALE gtin: 609963360208 inserido com o id: 527
+Produto: RAPADURA C/ ABOBORA gtin: 7895098041041 inserido com o id: 528
+Produto: RAPADURA C/ AMENDOIM gtin: 7895098041010 inserido com o id: 529
+Produto: RAPADURA C/ CIDRA gtin: 7895098041027 inserido com o id: 530
+Produto: RAPADURA C/ COCO gtin: 7895098041058 inserido com o id: 531
+Produto: RAPADURA C/ MAMO gtin: 7895098041034 inserido com o id: 532
+Produto: RAPADURA C/AMENDOIM gtin: 7890483574715 inserido com o id: 533
+Produto: RAPADURA CEARA gtin: 7890483574012 inserido com o id: 534
+Produto: RAPADURA CEARA ESCURA gtin: 7893095573312 inserido com o id: 535
+Produto: RAPADURA CEARA PINGO gtin: 7890483574562 inserido com o id: 536
+Produto: RAPADURA CEARA PINGO COM AMENDOIM gtin: 7890483574647 inserido com o id: 537
+Produto: RAPADURA CEARENSE QUEBRADINHA gtin: 13500 inserido com o id: 538
+Produto: RAPADURA COM ABACAXI gtin: 7895098041065 inserido com o id: 539
+Produto: RAPADURA COM AMENDOIM gtin: 609963360239 inserido com o id: 540
+Produto: RAPADURA COM BANANA gtin: 7895098041072 inserido com o id: 541
+Produto: RAPADURA COM GERGELIM gtin: 7895098041249 inserido com o id: 542
+Produto: RAPADURA COM GOIABADA gtin: 7895098041089 inserido com o id: 543
+Produto: RAPADURA DO CEARA 1500GR gtin: 7893095573329 inserido com o id: 544
+Produto: RAPADURA DO CEARA 250GR gtin: 7890483574586 inserido com o id: 545
+Produto: RAPADURA DO CEARA C/CAFE PINGO gtin: 7890483574654 inserido com o id: 546
+Produto: RAPADURA DO CEARA C/COCO PINGO gtin: 7890483574630 inserido com o id: 547
+Produto: RAPADURA DO CEAR COM AMENDOIM gtin: 7890483574609 inserido com o id: 548
+Produto: RAPADURA DO CEARA TRADICIONAL 1500G gtin: 7890483574005 inserido com o id: 549
+Produto: RAPADURA ESTRELA ABACAXI gtin: 7897803900537 inserido com o id: 550
+Produto: RAPADURA ESTRELA BATIDA gtin: 7897803900339 inserido com o id: 551
+Produto: RAPADURA ESTRELA DE COCO gtin: 7897803900483 inserido com o id: 552
+Produto: RAPADURA ESTRELA GOIABA gtin: 7897803900384 inserido com o id: 553
+Produto: RAPADURA ESTRELA TRADICIONAL gtin: 7897803900438 inserido com o id: 554
+Produto: RAPADURA MINEIRA JR 600G gtin: 7898029210080 inserido com o id: 555
+Produto: RAPADURA QUEBRADINHA COM GOIABA gtin: 7894148057834 inserido com o id: 556
+Produto: RAPADURA QUEBRADINHA TRADICIONAL gtin: 7893916194580 inserido com o id: 557
+Produto: RAPADURA SERRA gtin: 7897075186455 inserido com o id: 558
+Produto: RAPADURA SERRA C/COCO gtin: 7897075186448 inserido com o id: 559
+Produto: RAPE gtin: 16 inserido com o id: 560
+Produto: REFRIGENTE SAO GERALDO 2LT gtin: 7897240900107 inserido com o id: 561
+Produto: REFRIGERANTE CAJU SAO GERALDO gtin: 7897240900077 inserido com o id: 562
+Produto: REFRIGERANTE COCA COLA gtin: 7894900010015 inserido com o id: 563
+Produto: REFRIGERANTE GUARANA 350 ML gtin: 7891991000826 inserido com o id: 564
+Produto: REFRIGERANTE SAO GERALDO 1LT gtin: 7897240900114 inserido com o id: 565
+Produto: REFRIGERANTE SUKITA gtin: 7891149440603 inserido com o id: 566
+Produto: REQUEIJO gtin: 46 inserido com o id: 567
+Produto: REQUEIJAO BRANCO 500G gtin: 7898203240063 inserido com o id: 568
+Produto: SABONETE DIVERSOS gtin: 454454 inserido com o id: 569
+Produto: SABONETE INTIMJO AROEIRA APINIL gtin: 7898936049131 inserido com o id: 570
+Produto: SABONETE INTIMO 15 ERVAS gtin: 7898566782620 inserido com o id: 571
+Produto: SABONETE INTIMO 17 ERVAS  APINIL gtin: 7898936049049 inserido com o id: 572
+Produto: SABONETE INTIMO 17ERVAS gtin: 7898566786598 inserido com o id: 573
+Produto: SABONETE INTIMO BABABELL CHICLETE gtin: 7898943759184 inserido com o id: 574
+Produto: SABONETE INTIMO BABABELL UVA gtin: 7898751480386 inserido com o id: 575
+Produto: SABONETE INTIMO BARBATIMAO gtin: 7898566786604 inserido com o id: 576
+Produto: SABONETE INTIMO BARBATIMAO COM AROEIRA APINIL gtin: 7898936049735 inserido com o id: 577
+Produto: SABONETE INTIMO BARBATIMAO E AROEIRA gtin: 7898566782439 inserido com o id: 578
+Produto: SABONETE INTIMO ERVA DOCE gtin: 7898566782453 inserido com o id: 579
+Produto: SABONETE INTIMO MARACUJA gtin: 7898936049056 inserido com o id: 580
+Produto: SABONETE INTIMO MORANGO gtin: 7898936049063 inserido com o id: 581
+Produto: SAL DE PARRILLA CHIMICHURRI gtin: 7896118718981 inserido com o id: 582
+Produto: SAL DE PARRILLA CHURRASCO DEFUMADO gtin: 7896118711029 inserido com o id: 583
+Produto: SAL DE PARRILLA COM ALHO gtin: 7896118711012 inserido com o id: 584
+Produto: SAL DE PARRILLA COM PIMENTA gtin: 7896118711043 inserido com o id: 585
+Produto: SAL DE PARRILLA LEMON PEPPER gtin: 7896118718998 inserido com o id: 586
+Produto: SAL DE PARRILLA LIMAO COM ERVAS gtin: 7896118711036 inserido com o id: 587
+Produto: SAL DE PARRILLA SALSA CRIOLLA gtin: 7896118711050 inserido com o id: 588
+Produto: SAL DE PARRILLA TRADICIONAL gtin: 7896118711005 inserido com o id: 589
+Produto: SALGADINHO TOP  SABOR BACON gtin: 7898692510333 inserido com o id: 590
+Produto: SALGADINHO TOP COSTELINHA COM LIMAO gtin: 7898692510340 inserido com o id: 591
+Produto: SEBO DE CARNEIRO gtin: 64 inserido com o id: 592
+Produto: SECA BARRIGA gtin: 7891011123603 inserido com o id: 593
+Produto: SECA BARRIGA PREMIUM gtin: 7898526971347 inserido com o id: 594
+Produto: SEMENTE ABOBORA gtin: 113 inserido com o id: 595
+Produto: SEMENTE DE CHIA gtin: 58 inserido com o id: 596
+Produto: SEQUILHOS LIMAO ADBELL gtin: 7899085683757 inserido com o id: 597
+Produto: SINUSITE gtin: 7898255687335 inserido com o id: 598
+Produto: SOJA EM GRAO gtin: 317 inserido com o id: 599
+Produto: SPIRULINA 120 CAPSULAS gtin: 7898572041377 inserido com o id: 600
+Produto: SPRITE LATINHA gtin: 7894900681017 inserido com o id: 601
+Produto: SUCO DE UVA XV DE NOVEMBRO gtin: 7897966680253 inserido com o id: 602
+Produto: SUCO DEL VALE UVA gtin: 7894900550054 inserido com o id: 603
+Produto: SUCO DELL VALLE LARANJA gtin: 7894900556056 inserido com o id: 604
+Produto: SUCUPIRA EM GARRAFA gtin: 7898987745228 inserido com o id: 605
+Produto: SUNDAE MISTA FLOR DA NATA gtin: 90 inserido com o id: 606
+Produto: SUPER SLIMX gtin: 9788594038425 inserido com o id: 607
+Produto: SUSPIRO MINI TRADICIONAL DELICIASSIS 70G gtin: 7898706370540 inserido com o id: 608
+Produto: TABLETAO GOIADA gtin: 7890483580082 inserido com o id: 609
+Produto: TABLETE DE CAJU gtin: 7890483574487 inserido com o id: 610
+Produto: TAPIOCA CROCANTE COCO C/ GOIABADA gtin: 7895099352962 inserido com o id: 611
+Produto: TAPIOCA DA TERRINHA gtin: 7898994081630 inserido com o id: 612
+Produto: TAPIOCA DA TERRINHA 500G gtin: 7898994081623 inserido com o id: 613
+Produto: TAPIOCA GRANULADA gtin: 80 inserido com o id: 614
+Produto: TAPIOCA LOPES gtin: 7898113940299 inserido com o id: 615
+Produto: TARECO DE COCO gtin: 7898715560666 inserido com o id: 616
+Produto: TEMPERO ACAFRO gtin: 28 inserido com o id: 617
+Produto: TEMPERO ALHO EM PO gtin: 903 inserido com o id: 618
+Produto: TEMPERO ALHO FRITO gtin: 30 inserido com o id: 619
+Produto: TEMPERO ALHO,CEBOLA E SALSA gtin: 423 inserido com o id: 620
+Produto: TEMPERO ANA MARIA gtin: 17 inserido com o id: 621
+Produto: TEMPERO BAIANO gtin: 7896118718547 inserido com o id: 622
+Produto: TEMPERO BAIANO COM PIMENTA gtin: 134 inserido com o id: 623
+Produto: TEMPERO BAIANO S PIMENTA gtin: 85 inserido com o id: 624
+Produto: TEMPERO CALDO DE GALINHA gtin: 311 inserido com o id: 625
+Produto: TEMPERO CARTELA MISTO gtin: 31 inserido com o id: 626
+Produto: TEMPERO CHIMICHURRI COM PIMENTA gtin: 21 inserido com o id: 627
+Produto: TEMPERO CHIMICHURRI DEFUMADO gtin: 20 inserido com o id: 628
+Produto: TEMPERO CHIMICHURRI SEM PIMENTA gtin: 41 inserido com o id: 629
+Produto: TEMPERO COLORAU gtin: 25 inserido com o id: 630
+Produto: TEMPERO COMINHO gtin: 107 inserido com o id: 631
+Produto: TEMPERO COMPLETO gtin: 7896118718561 inserido com o id: 632
+Produto: TEMPERO CURRY gtin: 106 inserido com o id: 633
+Produto: TEMPERO DU CHEF gtin: 24 inserido com o id: 634
+Produto: TEMPERO EDU GUEDES gtin: 18 inserido com o id: 635
+Produto: TEMPERO FUMAA gtin: 104 inserido com o id: 636
+Produto: TEMPERO LEMON PEPPER gtin: 22 inserido com o id: 637
+Produto: TEMPERO MINEIRO DUPLICADO 99 gtin: 19 inserido com o id: 638
+Produto: TEMPERO MINEIRO gtin: 7896118718554 inserido com o id: 639
+Produto: TEMPERO OREGANO gtin: 109 inserido com o id: 640
+Produto: TEMPERO PAPRICA DEFUMADA gtin: 26 inserido com o id: 641
+Produto: TEMPERO PAPRICA DOCE gtin: 27 inserido com o id: 642
+Produto: TEMPERO PAPRICA PICANTE gtin: 121 inserido com o id: 643
+Produto: TEMPERO PARA FEIJAO gtin: 325 inserido com o id: 644
+Produto: TEMPERO PEGA ESPOSA gtin: 131 inserido com o id: 645
+Produto: TEMPERO PEGA MARIDO gtin: 86 inserido com o id: 646
+Produto: TEMPERO PIMENTA CALABRESA gtin: 299 inserido com o id: 647
+Produto: TEMPERO PIMENTA DO REINO gtin: 130 inserido com o id: 648
+Produto: TEMPERO SAL HIMALAIA FINO gtin: 29 inserido com o id: 649
+Produto: TEMPERO SALSA gtin: 105 inserido com o id: 650
+Produto: TEMPERO TEMPERA TUDO gtin: 23 inserido com o id: 651
+Produto: TERERE  ABACAXI gtin: 7896328227006 inserido com o id: 652
+Produto: TERERE BLACK MENTA gtin: 7896328299010 inserido com o id: 653
+Produto: TERERE LIMAO  MENTA gtin: 7896328200948 inserido com o id: 654
+Produto: TERERE MENTA ICE gtin: 7896328226009 inserido com o id: 655
+Produto: TERERE PURA FOLHA gtin: 7896328226016 inserido com o id: 656
+Produto: TERERE SABOR ABACAXI LARANJEIRAS gtin: 7896072382891 inserido com o id: 657
+Produto: TIJOLO CASEIRO gtin: 7898947627014 inserido com o id: 658
+Produto: TOUCINHO SALGADO gtin: 861 inserido com o id: 659
+Produto: TRIBULUS TERRESTRIS EM PO gtin: 395 inserido com o id: 660
+Produto: TRIGO PARA KIBE gtin: 103 inserido com o id: 661
+Produto: UVA PASSA PRETA gtin: 120 inserido com o id: 662
+Produto: VIAGRON gtin: 1807369514051 inserido com o id: 663
+Produto: VINAGRE DE FRUTA MA ALMORI gtin: 7898908593310 inserido com o id: 664
+Produto: VINAGRE DE MACA ALMORI VERDE gtin: 7898908593617 inserido com o id: 665
+Produto: VINAGRE DE MAA ORGANICO gtin: 7898593252646 inserido com o id: 666
+Produto: XAROPE VOV gtin: 7898042159472 inserido com o id: 667
+Produto: XEREM DE AMENDOIM gtin: 115 inserido com o id: 668
+Produto:  gtin: 668 inserido com o id: 669
+: TIJOLO CASEIRO gtin: 7898947627014 inserido com o id: 6010
+Produto: TOUCINHO SALGADO gtin: 861 inserido com o id: 6011
+Produto: TRIBULUS TERRESTRIS EM PO gtin: 395 inserido com o id: 6012
+Produto: TRIGO PARA KIBE gtin: 103 inserido com o id: 6013
+Produto: UVA PASSA PRETA gtin: 120 inserido com o id: 6014
+Produto: VIAGRON gtin: 1807369514051 inserido com o id: 6015
+Produto: VINAGRE DE FRUTA MA ALMORI gtin: 7898908593310 inserido com o id: 6016
+Produto: VINAGRE DE MACA ALMORI VERDE gtin: 7898908593617 inserido com o id: 6017
+Produto: VINAGRE DE MAA ORGANICO gtin: 7898593252646 inserido com o id: 6018
+Produto: XAROPE VOV gtin: 7898042159472 inserido com o id: 6019
+Produto: XEREM DE AMENDOIM gtin: 115 inserido com o id: 6020
+Produto:  gtin: 668 inserido com o id: 6021
+o: PAO DE QUEIJO KG gtin: 00000000000653 inserido com o id: 671
 Produto: PAO FRANCES KG gtin: 00000000000654 inserido com o id: 672
 Produto: VERDURA PROMOCAO gtin: 00000000000655 inserido com o id: 673
 Produto: TORTA DUPLICADO 99 gtin: 00000000000656 inserido com o id: 674
