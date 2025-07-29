@@ -2,8 +2,6 @@ export async function parseCSVtoArray(filePath: string): Promise<any[]> {
     console.log('a');
     const content = await Bun.file(filePath).text();
 
-    
-
     // Remove quebras de linha dentro de aspas
     const sanitized = content.replace(/("[^"]*)\r?\n([^\"]*")/g, (match, p1, p2) => p1 + p2);
 

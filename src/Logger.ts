@@ -25,3 +25,9 @@ export class Logger {
         this.writer.end();
     }
 }
+
+// 
+// Faz o setup do logs
+export const log = new Logger('./public/logs/log.txt');
+export const duplicidadeGtin = new Logger('./public/logs/duplicidadeGtin.txt');
+export const duplicidadeNome = new Logger('./public/logs/duplicidadeNome.txt');
