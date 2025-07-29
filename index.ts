@@ -3,21 +3,13 @@ import { defineMedida, isValidGTIN } from './src/funcoes';
 import { conn } from './src/db/conn';
 import { Logger } from './src/Logger';
 import { treatDescricao, treatGtin } from './src/treating/strangeChars';
+import { defaultValues } from './src/utils/defaultValues';
 
-interface Produto {
-	gtin: string;
-	nome: string;
-	unidade: string;
-	valorVenda: any;
-	valorCompra: any;
-	estoqueAtual: string;
-	codigoNCM: string;
-	codigoCEST: string;
-}
-
-const log = new Logger('log.txt');
-const duplicidadeGtin = new Logger('duplicidadeGtin.txt');
-const duplicidadeNome = new Logger('duplicidadeNome.txt');
+// 
+// Faz o setup do logs
+const log = new Logger('./public/logs/log.txt');
+const duplicidadeGtin = new Logger('./public/logs/duplicidadeGtin.txt');
+const duplicidadeNome = new Logger('./public/logs/duplicidadeNome.txt');
 
 // 
 // Importa o arquivo CSV e converte para um array de objetos
@@ -26,109 +18,6 @@ const arr = await parseCSVtoArray('C:/CODE/conversor/public/produtos.csv') as Pr
 // 
 // Verifica se o array não está vazio
 const maxId = await conn.query('SELECT MAX(id) as maxId FROM `database`.produotos')
-
-// 
-// Define os valores padrão para os campos do produto
-const defaultValues = {
-	idUnidade: null,
-	IAT: 'A',
-	IPPT: 'T',
-	SKU: null,
-	ajustarQuantidadePrecoLivre: 0,
-	idFiscal: 1,
-	alterado: ',',
-	alteradoEm: '',
-	alteradoMultiLoja: ',',
-	alterarPrecoMultiLoja: 0,
-	ativarAtacadoAutomatico: 0,
-	balancaCaixa: 0,
-	bloquearQuantidadeVenda: 0,
-	idCategoria: null,
-	codigoCEST: '',
-	codigoInterno: null,
-	codigoNCM: null,
-	codigoProdutoANP: null,
-	custoOperacional: 0.0,
-	dataUltimaCompra: null,
-	desagruparSubItens: 0,
-	descricaoEtiquetas: null,
-	descricaoLivre: 0,
-	descricaoPDV: null,
-	estoqueAtual: null,
-	estoqueMaximo: 0.0,
-	estoqueMinimo: 0.0,
-	estoqueReservado: 0,
-	etiqueta: 0,
-	exibirCamposMetrosQuadradosOrcamento: 0,
-	exibirQuantidadePorCaixaOrcamento: 0,
-	idFamilia: null,
-	fatorDeMultiplicacao: 1,
-	fatorQtdUnd: 0,
-	finalidadeProduto: 1,
-	idFornecedor: 1,
-	gradeProdutos: 0,
-	idGrupo: 1,
-	gtin: null,
-	gtinEtiquetas: null,
-	gtinTributavel: null,
-	indImport: 0,
-	markUp: 0,
-	limitarDesconto: 0,
-	listaSubItens: 0,
-	localizacao: null,
-	markUpAtacado: 0.0,
-	nome: null,
-	numeroControleFCI: null,
-	observacao: null,
-	pagaComissao: 0,
-	pedeNumeroSerieVenda: 0,
-	percentualComissao: 0.0,
-	percentualComissaoPrazo: 0.0,
-	percentualEstadoOrig: 100.0,
-	percentualGLP: 0.0,
-	percentualGNi: 0.0,
-	percentualGNn: 0.0,
-	percentualMaximoDesconto: 0.0,
-	pesoBruto: 0.0,
-	pesoLiquido: 0.0,
-	possuiSubItens: 0,
-	precoFormatado: null,
-	precoLivre: 0,
-	produtoBalanca: 0,
-	produtoEntrega: 0,
-	produtoGrade: null,
-	produtoInativo: 0,
-	produtoMarketplace: 0,
-	produtoMultiLoja: 0,
-	quantidade: 1,
-	quantidadeEntradaAtacado: 1,
-	quantidadeKGGLP: 0.0,
-	quantidadeMaximaVenda: 0.0,
-	quantidadeMetrosCaixa: 1,
-	quantidadePorUnd: 1,
-	referencia: null,
-	idSetor: 1,
-	solicitarInformacoesAdicionais: 0,
-	idSubGrupo: 1,
-	tipoAtacadoAutomatico: 0,
-	tipoComissao: 0,
-	totalComprado: 0,
-	ufOrigem: null,
-	ultimaQuantidadeComprada: 0.0,
-	unidade: "KG",
-	idUnidadeCompra: 1,
-	validadeDias: null,
-	valorComissaoPrazo: 0.0,
-	valorComissaoVista: 0.0,
-	valorCompra: null,
-	valorCusto: null,
-	valorEntradaAtacado: 0.0,
-	valorVenda: null,
-	valorVendaAtacado: 0.00,
-	valorVendaEtiqueta: 5.0,
-	horaAlteracao: null,
-	dataAlteracao: null
-}
 
 // 
 // Verifica duplicidade de GTINs de 6 dígitos
@@ -160,6 +49,8 @@ function verifyGtinDuplicity() {
 	});
 }
 
+// 
+// Verifica duplicidade de nomes
 function verifyNameDuplicity() {
 	let nomeCount: Record<string, number> = {}
 
@@ -205,16 +96,17 @@ async function insertProduto(produto: any, i: number = 0) {
 		mergedProduto.produtoBalanca = 0;
 	}
 
-
 	mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
 	mergedProduto.nome = treatDescricao(mergedProduto.nome || "");
 
-	mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra) : 0.0;
-	mergedProduto.valorVenda = produto.valorVenda ? parseFloat(mergedProduto.valorVenda) : 0.0;
+	mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra.toString().replace(',', '.')) : 0.0;
+	mergedProduto.valorVenda = produto.valorVenda ? parseFloat(mergedProduto.valorVenda.toString().replace(',', '.')) : 0.0;
+
+	
 	mergedProduto.valorVenda = mergedProduto.valorVenda < mergedProduto.valorCusto ? mergedProduto.valorCusto : mergedProduto.valorVenda;
 	mergedProduto.markUp = (((mergedProduto.valorVenda - mergedProduto.valorCompra) / mergedProduto.valorCompra) * 100 || 0);
 	if (!isFinite(mergedProduto.markUp)) mergedProduto.markUp = 0;
-	mergedProduto.estoqueAtual = produto.estoqueAtual ? parseFloat(produto.estoqueAtual) : 0;
+	mergedProduto.estoqueAtual = produto.estoqueAtual ? parseFloat(produto.estoqueAtual.toString().replace(',', '.')) : 0;
 	mergedProduto.gtinTributavel = (isValidGTIN(produto.gtin) ? produto.gtin : null) as any;
 	mergedProduto.codigoInterno = maxId[0].maxId + 1
 	mergedProduto.descricaoPDV = produto.nome as any
@@ -240,9 +132,11 @@ async function insertProduto(produto: any, i: number = 0) {
 	}
 }
 
+// 
+// Remove caracteres estranhos da descrição
 function treatDescricaoAfter() {
 	try {
-		conn.execute(`UPDATE produtos SET  descricaopdv = REGEXP_REPLACE(descricaopdv, '[^ -~]', ''), descricaoEtiquetas = REGEXP_REPLACE(descricaoEtiquetas, '[^ -~]', ''),  nome = REGEXP_REPLACE(nome, '[^ -~]', '');`)
+		conn.execute("UPDATE `database`.produotos SET descricaopdv = REGEXP_REPLACE(descricaopdv, '[^ -~]', ''), descricaoEtiquetas = REGEXP_REPLACE(descricaoEtiquetas, '[^ -~]', ''),  nome = REGEXP_REPLACE(nome, '[^ -~]', '');")
 	} catch (error) {
 		console.error(`Erro ao tratar descrição:`, error);
 	}
