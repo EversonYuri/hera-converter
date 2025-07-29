@@ -1,4 +1,0 @@
-GTIN 6 dígitos duplicado: 7898215151807 > Novo gtin: 999999
-GTIN 6 dígitos duplicado: 7891910030309 > Novo gtin: 999998
-GTIN 6 dígitos duplicado: 7896060010492 > Novo gtin: 999997
-GTIN 6 dígitos duplicado: 7898996362508 > Novo gtin: 999996

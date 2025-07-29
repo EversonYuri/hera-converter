@@ -1,10 +1,18 @@
+import { mkdir } from "node:fs/promises";
+
 export class Logger {
     file: Bun.BunFile
-    writer: Bun.FileSink;
+    writer: Bun.FileSink | any;
 
     constructor(file: string) {
         this.file = Bun.file(file);
-        
+
+        this.addPath()
+    }
+
+    async addPath() {
+        await mkdir("./public/logs", { recursive: true });
+
         this.writer = this.file.writer();
     }
 
