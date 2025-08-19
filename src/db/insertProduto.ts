@@ -1,7 +1,7 @@
 import { defineMedida, isValidGTIN } from "../funcoes";
 import { log } from "../Logger";
-import { treatDescricao, treatGtin } from "../treating/strangeChars";
-import { defaultValues } from "../utils/defaultValues";
+import { treatString, treatGtin } from "../treating/strangeChars";
+import { defaultProduto } from "../utils/defaultValues";
 import { conn } from "./conn";
 
 export async function insertProduto(produto: any, i: number = 0) {
@@ -9,8 +9,8 @@ export async function insertProduto(produto: any, i: number = 0) {
     // 
     // Verifica se o array não está vazio
     const maxId = await conn.query('SELECT MAX(id) as maxId FROM `database`.produotos')
-    
-    const mergedProduto = { ...defaultValues, ...produto };
+
+    const mergedProduto = { ...defaultProduto, ...produto };
 
     mergedProduto.unidade = mergedProduto.unidade ? mergedProduto.unidade.toUpperCase().trim() : 'UN';
 
@@ -24,7 +24,7 @@ export async function insertProduto(produto: any, i: number = 0) {
     }
 
     mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
-    mergedProduto.nome = treatDescricao(mergedProduto.nome || "");
+    mergedProduto.nome = treatString(mergedProduto.nome || "");
 
     mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra.toString().replace(',', '.')) : 0.0;
     mergedProduto.valorVenda = produto.valorVenda ? parseFloat(mergedProduto.valorVenda.toString().replace(',', '.')) : 0.0;
@@ -48,9 +48,12 @@ export async function insertProduto(produto: any, i: number = 0) {
     while (mergedProduto.codigoNCM.length < 8) mergedProduto.codigoNCM = '0' + mergedProduto.codigoNCM;
 
     delete mergedProduto.unidade;
-
+    delete mergedProduto.exclude;
+    delete mergedProduto[""];    
+    
     const mergedProdutoKeys = Object.keys(mergedProduto) as (keyof typeof mergedProduto)[];
     const mergedKeys = mergedProdutoKeys.map((key: any) => `\`${key}\``);
+    
     try {
         const result = await conn.execute(`INSERT INTO \`database\`.produotos (${mergedKeys.join(',')}) VALUES (${mergedKeys.map(() => '?').join(',')})`, mergedProdutoKeys.map((key) => mergedProduto[key]))
         log.addLog(`Produto: ${mergedProduto.nome} gtin: ${mergedProduto.gtin} inserido com o id: ${result.insertId}`)

@@ -9,7 +9,7 @@ export function isValidGTIN(gtin: string): boolean {
     return checkDigit === calcCheck;
 }
 
-export function defineMedida(medida: string) {
+export function defineMedida(medida: string = "UN") {
 
     medida = medida.toUpperCase().trim();
     // Se algum dos cases está contido na string, ajusta para o valor do case correspondente

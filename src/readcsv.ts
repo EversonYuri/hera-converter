@@ -4,8 +4,11 @@ export async function parseCSVtoArray(filePath: string): Promise<any[]> {
     const content = await Bun.file(filePath).text();
 
     // Remove quebras de linha dentro de aspas
-    const sanitized = content.replace(/("[^"]*)\r?\n([^\"]*")/g, (match, p1, p2) => p1 + p2);
-
+    let sanitized = content //
+        .replace(
+            /("[^"]*) \r ?\n([^\"]*")/g,
+            (match, p1, p2) => p1 + "\n" + p2
+        ).replace(/"(.*?)"/gs, "$1");
     const lines = sanitized.split(/\r?\n/).filter(Boolean);
     if (lines.length < 2 || !lines[0]) return [];
     // Detecta separador: usa ; se houver mais ; do que , na primeira linha
@@ -15,7 +18,7 @@ export async function parseCSVtoArray(filePath: string): Promise<any[]> {
     const headers = lines[0].split(sep).map(h => h.trim());
     log.addLog(`CSV parsed`);
     console.log(`CSV parsed`);
-    
+
     return lines.slice(1).map(line => {
         const values = line.split(sep);
         const obj: any = {};
@@ -25,4 +28,3 @@ export async function parseCSVtoArray(filePath: string): Promise<any[]> {
         return obj;
     });
 }
-
