@@ -7,7 +7,7 @@ import { treatDescricaoAfter } from './src/treating/strangeChars';
 
 // 
 // Importa o arquivo CSV e converte para um array de objetos
-const arr = await parseCSVtoArray('C:/CODE/conversor/public/produtos.csv') as Produto[];
+const arr = await parseCSVtoArray('./public/produtos.csv') as Produto[];
 
 // 
 // Verifica duplicidade de GTINs de 6 dígitos

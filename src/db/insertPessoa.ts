@@ -4,12 +4,6 @@ import { defaultPessoa } from "../utils/defaultValues";
 import { conn } from "./conn";
 
 export async function insertPessoa(pessoa: any, i: number = 0) {
-
-    // 
-    // 
-    // Verifica se o array não está vazio
-    const maxId = await conn.query('SELECT MAX(id) as maxId FROM `database`.pessoas')
-
     const mergedPessoa = { ...defaultPessoa, ...pessoa };
 
     // 
@@ -57,6 +51,8 @@ export async function insertPessoa(pessoa: any, i: number = 0) {
 
     try {
         const result = await conn.execute(`INSERT INTO \`database\`.pessoas (${mergedKeys.join(',')}) VALUES (${mergedKeys.map(() => '?').join(',')})`, pessoaKeys.map((key) => mergedPessoa[key]))
+        console.log(result);
+
         log.addLog(`Pessoa: ${mergedPessoa.nome} gtin: ${mergedPessoa.gtin} inserido com o id: ${result.insertId}`)
     } catch (error) {
         console.error(`Erro ao inserir pessoa ${pessoa.nome} (ID: ${mergedPessoa.codigoInterno}):`, error);

@@ -23,7 +23,7 @@ export function defineMedida(medida: string = "UN") {
         }
     }
 
-    switch (medida){
+    switch (medida) {
         case 'UN':
         case 'UND':
             return 1; // Unidade
@@ -57,6 +57,10 @@ export function defineMedida(medida: string = "UN") {
             return 15; // Milímetro
         case 'PC':
             return 16; // Peça
+        case 'FARDO':
+            return 6
+        case 'CAIXA':
+            return 4
         default:
             return 1; // Padrão para Unidade
     }
