@@ -33,13 +33,12 @@ export async function clearAndInsertDefaultDatabase() {
     }
 
     // await connWithDb.execute(cleanedSql);
-    for (const cmd of cleanedSql.split(";\n")) {
-        console.log(cmd);
-        
-        if (cmd.trim()) await connWithDb.execute(cleanedSql);
+    for (const cmd of cleanedSql.split(/;\s*$/m)) {
+        if (cmd.trim()) await connWithDb.execute(cmd).catch((error) => {
+            console.log(cmd);
+            console.log(error);
+        });
     }
-
     await connWithDb.execute("SET FOREIGN_KEY_CHECKS = 1");
-    connWithDb.end();
 }
 
