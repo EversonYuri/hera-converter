@@ -41,4 +41,3 @@ export async function clearAndInsertDefaultDatabase() {
     }
     await connWithDb.execute("SET FOREIGN_KEY_CHECKS = 1");
 }
-

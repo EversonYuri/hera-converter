@@ -1,7 +1,7 @@
 import mariadb from 'mariadb'
 
 const conn = await mariadb.createPool({
-    host: '26.87.26.107',
+    host: '26.56.195.196',
     user: 'root',
     password: '240190',
     port: 3306,

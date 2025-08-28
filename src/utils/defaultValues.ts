@@ -108,7 +108,7 @@ export const defaultPessoa = {
 	"atualizarPrecoVendaFilial": 1,
 	"bairro": "",
 	"celularPessoal": "",
-	"cidade": "MAGE",
+	"cidade": "SAO PAULO",
 	"cliente": 1,
 	"cnpj": "",
 	"codigoMunicipio": "3302502",
@@ -159,7 +159,7 @@ export const defaultPessoa = {
 	"ID_TIPO_CONTA": null,
 	"tipoFuncionario": 0,
 	"transportador": 0,
-	"uf": "RJ",
+	"uf": "SP",
 	"ultimaCarga": null,
 	"vendedor": 0,
 	"ID_VENDEDOR_VINCULADO": null
