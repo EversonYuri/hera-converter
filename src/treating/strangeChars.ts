@@ -13,11 +13,7 @@ export function treatString(str: string): string {
 }
 
 export function treatGtin(str: string): string {
-    return str
-        .replace(/[A-Z]/g, '')
-        .replace(/[a-z]/g, '')
-        .replace(/[ÁÉÍÓÚáéíóúÂÊÔâêôÀàÜüÇçÑñÃÕõäëïöüÿÄËÏÖÜŸåÅæÆœŒ]/g, '')
-        .replace(/[.\| ,!@/\-\$%¨&*()+=§:;?¿�^~{}\´\`_º\[\]¬]/g, '');
+    return str.replace(/\D/g, '').replace(/^0+/, '') || "0";
 }
 
 // 

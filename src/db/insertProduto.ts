@@ -4,7 +4,7 @@ import { treatString, treatGtin } from "../treating/strangeChars";
 import { defaultProduto } from "../utils/defaultValues";
 import { conn } from "./conn";
 
-export async function insertProduto(produto: any, i: number = 0) {
+export async function insertProduto(produto: any, i: number = 0, grupos: string[] = []) {
 
     // 
     // Verifica se o array não está vazio
@@ -24,6 +24,8 @@ export async function insertProduto(produto: any, i: number = 0) {
     }
 
     mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
+    console.log(mergedProduto.gtin, produto);
+    
     mergedProduto.nome = treatString(mergedProduto.nome || "");
 
     mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra.toString().replace(',', '.')) : 0.0;
@@ -46,9 +48,13 @@ export async function insertProduto(produto: any, i: number = 0) {
     mergedProduto.gtin = (mergedProduto.gtin === '' || mergedProduto.gtin === undefined || mergedProduto.gtin === null) ? i : mergedProduto.gtin;
     mergedProduto.codigoNCM = mergedProduto.codigoNCM ? mergedProduto.codigoNCM : "62046300"
     while (mergedProduto.codigoNCM.length < 8) mergedProduto.codigoNCM = '0' + mergedProduto.codigoNCM;
-
+    mergedProduto.idGrupo = grupos.indexOf(produto.grupo) + 2 || 1;
+    console.log(mergedProduto.idGrupo, produto.grupo, grupos);
+    
+    
     delete mergedProduto.unidade;
     delete mergedProduto.exclude;
+    delete mergedProduto.grupo;    
     delete mergedProduto[""];    
     
     const mergedProdutoKeys = Object.keys(mergedProduto) as (keyof typeof mergedProduto)[];

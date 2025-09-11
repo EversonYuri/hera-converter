@@ -1,19 +1,30 @@
 import { parseCSVtoArray } from './src/readcsv';
-import { duplicidadeGtin, duplicidadeNome, log } from './src/Logger';
+import { duplicidadeGtin, duplicidadeNome } from './src/Logger';
 import { insertProduto } from './src/db/insertProduto';
-import { treatDescricaoAfter } from './src/treating/strangeChars';
-
-
+import { treatDescricaoAfter, treatGtin } from './src/treating/strangeChars';
+import { insertGrupo } from './src/db/insertGrupos';
 
 // 
 // Importa o arquivo CSV e converte para um array de objetos
 const arr = await parseCSVtoArray('./public/produtos.csv') as Produto[];
+const grupos = arr
+	.map((item) => item.grupo)
+	.filter((value, index, self) => self.indexOf(value) === index && value !== '') as string[]
+
+// 
+// Insere os grupos únicos no banco de dados
+if (grupos.length > 0) grupos.forEach((grupo: any) => insertGrupo(grupo))
 
 // 
 // Verifica duplicidade de GTINs de 6 dígitos
 function verifyGtinDuplicity() {
 	let gtinCount: Record<string, number> = {}
 
+	arr.forEach(produto => {
+		if (!produto.gtin) return;
+		produto.gtin = treatGtin(produto.gtin)
+	});
+	
 	arr.forEach(produto => {
 		if (!produto.gtin) return;
 		gtinCount[produto.gtin] = (gtinCount[produto.gtin] || 0) + 1;
@@ -72,7 +83,7 @@ function verifyNameDuplicity() {
 
 verifyGtinDuplicity();
 verifyNameDuplicity();
-if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i))
+if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i, grupos))
 treatDescricaoAfter();
 
 console.log(`Total de produtos convertidos: ${arr.length}`);
