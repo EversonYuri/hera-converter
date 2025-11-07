@@ -7,5 +7,6 @@ interface Produto {
 	estoqueAtual: string;
 	codigoNCM: string;
 	codigoCEST: string;
-	grupo?: string
+	grupo?: string;
+	subgrupo?: string;
 }

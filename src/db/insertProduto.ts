@@ -4,7 +4,7 @@ import { treatString, treatGtin } from "../treating/strangeChars";
 import { defaultProduto } from "../utils/defaultValues";
 import { conn } from "./conn";
 
-export async function insertProduto(produto: any, i: number = 0, grupos: string[] = []) {
+export async function insertProduto(produto: any, i: number = 0, grupos: string[] = [], subgrupos: string[] = []) {
 
     // 
     // Verifica se o array não está vazio
@@ -24,7 +24,7 @@ export async function insertProduto(produto: any, i: number = 0, grupos: string[
     }
 
     mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
-    console.log(mergedProduto.gtin, produto);
+    // console.log(mergedProduto.gtin, produto);
     
     mergedProduto.nome = treatString(mergedProduto.nome || "");
 
@@ -38,23 +38,26 @@ export async function insertProduto(produto: any, i: number = 0, grupos: string[
     mergedProduto.estoqueAtual = produto.estoqueAtual ? parseFloat(produto.estoqueAtual.toString().replace(',', '.')) : 0;
     mergedProduto.gtinTributavel = (isValidGTIN(produto.gtin) ? produto.gtin : null) as any;
     mergedProduto.codigoInterno = maxId[0].maxId + 1
-    mergedProduto.descricaoPDV = produto.nome as any
-    mergedProduto.descricaoEtiquetas = produto.nome as any
+    mergedProduto.descricaoPDV = mergedProduto.nome
+    mergedProduto.descricaoEtiquetas = mergedProduto.nome
     mergedProduto.codigoInterno = maxId[0].maxId + 1 + i
-    mergedProduto.idUnidade = defineMedida(produto.unidade) as any
+    mergedProduto.idUnidade = defineMedida(mergedProduto.unidade) as any
     mergedProduto.valorCusto = mergedProduto.valorCompra as any
     mergedProduto.valorVendaEtiqueta = mergedProduto.valorVenda
     mergedProduto.gtinEtiquetas = mergedProduto.gtin
     mergedProduto.gtin = (mergedProduto.gtin === '' || mergedProduto.gtin === undefined || mergedProduto.gtin === null) ? i : mergedProduto.gtin;
     mergedProduto.codigoNCM = mergedProduto.codigoNCM ? mergedProduto.codigoNCM : "62046300"
     while (mergedProduto.codigoNCM.length < 8) mergedProduto.codigoNCM = '0' + mergedProduto.codigoNCM;
+
     mergedProduto.idGrupo = grupos.indexOf(produto.grupo) + 2 || 1;
-    console.log(mergedProduto.idGrupo, produto.grupo, grupos);
-    
-    
+    mergedProduto.idSubGrupo = subgrupos.indexOf(produto.subgrupo) + 2 || 1;
+    console.log(`ID: ${mergedProduto.idSubGrupo} SUBGRUPO: ${mergedProduto.subgrupo} ID: ${mergedProduto.idGrupo} GRUPO: ${mergedProduto.grupo}`);
+
     delete mergedProduto.unidade;
     delete mergedProduto.exclude;
     delete mergedProduto.grupo;    
+    delete mergedProduto.subgrupo;    
+    delete mergedProduto.estoque;    
     delete mergedProduto[""];    
     
     const mergedProdutoKeys = Object.keys(mergedProduto) as (keyof typeof mergedProduto)[];

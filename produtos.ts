@@ -2,20 +2,26 @@ import { parseCSVtoArray } from './src/readcsv';
 import { duplicidadeGtin, duplicidadeNome } from './src/Logger';
 import { insertProduto } from './src/db/insertProduto';
 import { treatDescricaoAfter, treatGtin } from './src/treating/strangeChars';
-import { insertGrupo } from './src/db/insertGrupos';
+import { insertGrupo, insertSubGrupo } from './src/db/insertGrupos';
 
 // 
 // Importa o arquivo CSV e converte para um array de objetos
-const arr = await parseCSVtoArray('./public/produtos.csv') as Produto[];
+let arr = await parseCSVtoArray('./public/produtos.csv') as Produto[];
 const grupos = arr
 	.map((item) => item.grupo)
+	.filter((value, index, self) => self.indexOf(value) === index && value !== '') as string[]
+
+const subgrupos = arr
+	.map((item) => item.subgrupo)
 	.filter((value, index, self) => self.indexOf(value) === index && value !== '') as string[]
 
 // 
 // Insere os grupos únicos no banco de dados
 if (grupos.length > 0) grupos.forEach((grupo: any) => insertGrupo(grupo))
 
-// 
+// Insere os subgrupos únicos no banco de dados
+if (subgrupos.length > 0) subgrupos.forEach((subgrupo: any) => insertSubGrupo(subgrupo))
+
 // Verifica duplicidade de GTINs de 6 dígitos
 function verifyGtinDuplicity() {
 	let gtinCount: Record<string, number> = {}
@@ -24,7 +30,7 @@ function verifyGtinDuplicity() {
 		if (!produto.gtin) return;
 		produto.gtin = treatGtin(produto.gtin)
 	});
-	
+
 	arr.forEach(produto => {
 		if (!produto.gtin) return;
 		gtinCount[produto.gtin] = (gtinCount[produto.gtin] || 0) + 1;
@@ -42,7 +48,7 @@ function verifyGtinDuplicity() {
 			}
 			if (novo) {
 				gtinCount[produto.gtin] = (gtinCount[produto.gtin] || 1) - 1
-				duplicidadeGtin.addLog(`GTIN 6 dígitos duplicado: ${produto.gtin} > Novo gtin: ${novo}`);
+				duplicidadeGtin.addLog(`GTIN 6 dígitos duplicado: ${produto.nome} ${produto.gtin} > Novo gtin: ${novo}`);
 				produto.gtin = novo;
 				usados.add(novo);
 			}
@@ -54,6 +60,11 @@ function verifyGtinDuplicity() {
 // Verifica duplicidade de nomes
 function verifyNameDuplicity() {
 	let nomeCount: Record<string, number> = {}
+
+	arr = arr.map(produto => {
+		produto.nome = produto.nome?.trim().toLocaleUpperCase()
+		return produto;
+	});
 
 	arr.forEach(produto => {
 		if (!produto.nome) return;
@@ -83,7 +94,7 @@ function verifyNameDuplicity() {
 
 verifyGtinDuplicity();
 verifyNameDuplicity();
-if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i, grupos))
+if (arr.length > 0) arr.forEach((produto: any, i) => insertProduto(produto, i, grupos, subgrupos))
 treatDescricaoAfter();
 
 console.log(`Total de produtos convertidos: ${arr.length}`);
