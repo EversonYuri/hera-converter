@@ -5,7 +5,8 @@
   "scripts": {
     "produtos": "bun run produtos.ts",
     "clean": "bun run defaultDb.ts",
-    "ver": "bun run verify.ts"
+    "ver": "bun run verify.ts",
+    "start": "bun run start.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"

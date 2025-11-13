@@ -25,7 +25,7 @@ export async function insertProduto(produto: any, i: number = 0, grupos: string[
 
     mergedProduto.gtin = treatGtin(mergedProduto.gtin || "");
     // console.log(mergedProduto.gtin, produto);
-    
+
     mergedProduto.nome = treatString(mergedProduto.nome || "");
 
     mergedProduto.valorCompra = produto.valorCompra ? parseFloat(mergedProduto.valorCompra.toString().replace(',', '.')) : 0.0;
@@ -49,20 +49,22 @@ export async function insertProduto(produto: any, i: number = 0, grupos: string[
     mergedProduto.codigoNCM = mergedProduto.codigoNCM ? mergedProduto.codigoNCM : "62046300"
     while (mergedProduto.codigoNCM.length < 8) mergedProduto.codigoNCM = '0' + mergedProduto.codigoNCM;
 
-    mergedProduto.idGrupo = grupos.indexOf(produto.grupo) + 2 || 1;
-    mergedProduto.idSubGrupo = subgrupos.indexOf(produto.subgrupo) + 2 || 1;
+    if (mergedProduto.grupo)
+        mergedProduto.idGrupo = grupos.indexOf(mergedProduto.grupo) + 2 || 1;
+    if (mergedProduto.subgrupo)
+        mergedProduto.idSubGrupo = subgrupos.indexOf(mergedProduto.subgrupo) + 2 || 1;
     console.log(`ID: ${mergedProduto.idSubGrupo} SUBGRUPO: ${mergedProduto.subgrupo} ID: ${mergedProduto.idGrupo} GRUPO: ${mergedProduto.grupo}`);
 
     delete mergedProduto.unidade;
     delete mergedProduto.exclude;
-    delete mergedProduto.grupo;    
-    delete mergedProduto.subgrupo;    
-    delete mergedProduto.estoque;    
-    delete mergedProduto[""];    
-    
+    delete mergedProduto.grupo;
+    delete mergedProduto.subgrupo;
+    delete mergedProduto.estoque;
+    delete mergedProduto[""];
+
     const mergedProdutoKeys = Object.keys(mergedProduto) as (keyof typeof mergedProduto)[];
     const mergedKeys = mergedProdutoKeys.map((key: any) => `\`${key}\``);
-    
+
     try {
         const result = await conn.execute(`INSERT INTO \`database\`.produotos (${mergedKeys.join(',')}) VALUES (${mergedKeys.map(() => '?').join(',')})`, mergedProdutoKeys.map((key) => mergedProduto[key]))
         log.addLog(`Produto: ${mergedProduto.nome} gtin: ${mergedProduto.gtin} inserido com o id: ${result.insertId}`)
