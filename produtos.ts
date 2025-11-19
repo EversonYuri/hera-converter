@@ -36,6 +36,7 @@ function verifyGtinDuplicity() {
 		gtinCount[produto.gtin] = (gtinCount[produto.gtin] || 0) + 1;
 	});
 
+
 	let usados = new Set(arr.map(p => p.gtin));
 
 	arr.forEach(produto => {
